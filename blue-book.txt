@@ -1,0 +1,1940 @@
+﻿THE SOURCE FOR FENCE PROFESSIONALS
+
+
+As an AI language model, I do not have access to any specific WooCommerce product information to list in a CSV format. However, the general schema for a WooCommerce product would include the following fields:
+
+
+* ID
+* Name
+* Description
+* Short Description
+* SKU
+* Regular Price
+* Sale Price
+* Categories
+* Tags
+* Weight
+* Dimensions (length, width, height)
+* Images (URLs)
+* Gallery Images (URLs)
+* Stock Quantity
+* Stock Status
+* Featured
+* Virtual
+* Downloadable
+* Download Limit
+* Download Expiry
+* Parent Product ID
+* Upsells (Product IDs)
+* Cross-sells (Product IDs)
+* Product Attributes (Name, Value, Visible, Global)
+* Product Variations (Attributes, Regular Price, Sale Price, SKU, Stock Quantity, etc.)
+
+
+Wholesale Only Policy 
+CREDIT - To establish credit account, Customer must contact their local branch of Master Halco for further details.  
+PAYMENT - For quali ed customers, terms of payment are 0.5% 15 days, net 30 days unless otherwise indicated on the face of this document.  Cash, COD and credit card transactions are not eligible for payment discounts. Sales on credit and payment discounts will not be allowed when account re ects  a past due balance or payment has not been made in accordance with Terms of Sale. Unearned payment discounts will be charged back on regular invoices.  
+MINIMUM ORDER - A $5.00 handling charge will be added to orders totaling less than $25.00.  
+SERVICE CHARGE - All past due balances are subject to service charge of 1 ½ % per month (18% annual), or the maximum permitted by law, whichever is less.  Should an action be brought to collect any balances past due or other terms hereof, the prevailing party shall be entitled to recover court costs and reasonable  lawyer's costs.  
+RETURNED CHEQUES - For cheques returned due to insu cient funds a $30.00 charge lor the maximum charge permitted by law) will be assessed for each  cheque returned. If payment discount is applicable on the transaction, this discount will be disallowed and charged back on a separate invoice.  
+WARRANTY POLICY - Supplier warrants that materials sold hereunder are free from defects in material and workmanship and conform to the product  description on the face hereof. Certain materials are covered by additional written limited warranties which provide warranty coverage for a speci c duration of  time and which are incorporated herein. Copies of these additional written limited warranties are available upon request at all Supplier o ces.  
+THERE ARE NO WARRANTIES OR CONDITIONS, INCLUDING BUT NOT LIMITED TO WARRANTIES OR CONDITIONS OF MERCHANTABILITY OR FITNESS FOR  PARTICULAR PURPOSE, EXPRESS OR IMPLIED, BEYOND THE TERMS OF THIS EXPRESS WARRANTY AND THE WRITTEN LIMITED WARRANTIES AND CONDITIONS  APPLICABLE TO CERTAIN MATERIALS INCORPORATED HEREIN. SUPPLIER DOES NOT AUTHORIZE ANY OTHER PERSON OR AGENT TO ASSUME FOR SUPPLIER ANY  OTHER LIABILITY OR OBLIGATION IN CONNECTION WITH MATERIALS SOLD. CUSTOMER'S EXCLUSIVE REMEDY IN RESPECT OF NON-CONFORMING MATERIALS  OR FOR DELAY OR NON DELIVERY FOR WHICH SUPPLIER IS RESPONSIBLE, SHALL BE LIMITED TO THE RETURN OF SAID MATERIALS AND THE REPAYMENT OF  THE PURCHASE PRICE PAID BY THE BUYER; OR IN THE CASE OF NON-CONFORMING MATERIALS, AT THE OPTION OF SUPPLIER, THE REPAIR OR REPLACEMENT OF  SUCH MATERIALS OR COMPONENTS THEREOF. IN NO EVENT SHALL SUPPLIER BE LIABLE FOR ANY CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO  LOSS OF PROFITS OR ECONOMIC LOSS, REPLACEMENT COSTS, HANDLING INSTALLATION OR LABOR IN MAKING SUCH REPLACEMENT OR REPAIR, OR ANY OTHER  SPECIAL OR INDIRECT LOSS, OR FOR INCIDENTAL DAMAGES, INCLUDING BUT NOT LIMITED TO EXPENSES INCURRED IN INSPECTION, RECEIPT, TRANSPORTATION,  STORAGE, CARE OR CUSTODY OR EXPENSES INCURRED IN CONNECTION WITH EFFECTING COVER.  
+This warranty is subject to the following terms and conditions: 
+a. Damage from abnormal or improper use, accident, alteration, neglect, abuse, improper service or installation, or damage caused by  ood,  re or act of God  Is not covered by warranty.  
+b. This warranty is applicable only to the initial purchaser and is non-transferable. 
+MISCELLANEOUS CHARGES - Prior authorization must be obtained before return of materials sold hereunder. A 15% handling charge will be  assessed on all materials sold hereunder and returned for Customer convenience. A minimum order charge, and other handling charges apply to transactions if  separately itemized on the face of this document.  
+INSPECTION AND CLAIMS - Customer shall inspect all materials for shortage, damage, or non-conformity immediately upon receipt. All claims must be  submitted by Customer in writing within three (3) days of receipt of materials. Materials are sold F.O.B. Supplier's warehouse of origin. In cases where materials  are transported by common carrier, title and risk of loss is transferred when material is tendered to the common carrier. Claims for shortage or damaged  materials must be made by Customer directly to the common carrier.  
+QUOTATIONS - Quotations are based on the Customer's list of materials. When plans are submitted, Supplier shall assist, but does not assume any responsibility  for Customer's list of materials. Customer assumes all responsibility for the accuracy, acceptance and compliance with any plans or speci cations for all materials  sold hereunder, and Supplier assumes no responsibility for same. Materials sold by Supplier are not sold to any standard speci cation or origin unless reference  to such standard speci cation is re ected on the face of this document. Valid quotations must be obtained in writing, and are subject to availability and change  in price unless such written quotation states otherwise. Verbal quotations will not be honored.  
+LIMITATION OF LIABILITY - In no event shall Supplier be liable for any damages with respect to, arising out of, or in connection with, the materials sold  hereunder in excess of the price for such materials stipulated on the face of this document, irrespective of whether such damages are based on breach of  contract, strict liability or otherwise.  
+ENTIRE AGREEMENT - This Sales Con rmation and Invoice and Terms of Sale, together with any written credit agreement(s), are the entire agreement of the  parties with respect to this transaction.  
+GOVERNING LAW - These Terms of Sale shall be interpreted and construed in accordance with the laws of the State or the Province in which the materials are  sold.  
+INSTALLATION INDEMNIFICATION - Supplier is not responsible for the handling or installation of materials sold hereunder. Customer indemni es and  holds Supplier harmless from all claims, damages and losses (including lawyer's costs on a full indemnity basis) arising from or related to installation or use of  materials sold hereunder. 
+DELIVERY INDEMNIFICATION - Master Halco is not responsible for any damages or liability from the delivery of materials sold hereunder. Customer shall hold  harmless Master Halco for any claims, damages, and losses arising from the delivery of the materials. Any claims for liability related to the delivery of material  should be directed towards Master Halco's delivering agent.
+COV-1 
+Sales Philosophy 
+Mission Statement 
+We create opportunities for our customers and associates to succeed through our continuous  commitment to manufacturing and distribution excellence. 
+Commitment & Partnership 
+We are the premier manufacturer and wholesale distributor in the fencing industry. 
+• Integrity 
+ o We strive to build honest and dependable relationships that allow us to become a   partner in our customers’ successes 
+ o Our goal is to meet or exceed our customers’ performance expectations  o We approach all transactions and negotiations with complete transparency within the  boundaries of moral, ethical, and legal standards 
+• Quality & Service 
+ o We strive to manufacture and distribute the highest quality fence products  o Our goal is to provide a “One-Stop-Shop” materials sourcing environment that saves  our customers time and money 
+ o All Master Halco associates have the same goal of exceeding our customers’   expectations for exceptional service at all levels 
+• Business Success 
+o We continue to review our product o ering to improve and expand into new products   that help our customers reduce costs and increase pro tability 
+ o We o er  nancial services such as Line of Credit and Project Accounts that give our   customers the working capital  exibility to grow and expand their businesses  o We conduct our business in such a way as to be Good For The Buyer, Good For The  Seller, and Good For The Industry! 
+For more than 50 years, Master Halco has been committed to partnership and success with  thousands of Fence Professionals. We would like to extend our gratitude to all of our customers and  our best wishes for continued, mutual success. 
+Master Halco 
+3010 LBJ Freeway 
+Suite 800 
+Dallas, TX 75234 
+(800) 883-8384 
+MasterHalco.com
+COV-2 
+Chain Link 
+Fabric Pages CL-1 to CL-37 Pipe and Tube Pages CL-38 to CL-81 Fittings Pages CL-82 to CL-119 Accessories Pages CL-120 to CL-129 Gate Fittings Pages CL-130 to CL-172 Gates Pages CL-173 to CL-216  
+Agriculture 
+T-Posts Pages AG-4 to AG-7 Wood Posts and Rails Pages AG-8 to AG-12 Barb Wire and Barbless Wire Pages AG-13 to AG-14 Fence Stays and Gripples Page AG-15 Woven Wire Pages AG-16 to AG-22 Welded Wire Pages AG-23 to AG-24 Wire Fence and Hardware Cloth Page AG-25 Panels Page AG-26 Gates Pages AG-27 to AG-29 Kennels Pages AG-30 to AG-31 Plastic and Wood Slats Fence Page AG-32 
+Wood 
+PostMaster® Pages WD-4 to WD-5 Western Red Cedar Pages WD-6 to WD-22 Incense Cedar Pages WD-23 to WD-24 Japanese Cedar Pages WD-25 to WD-30 Redwood Pages WD-31 to WD-32 Northern White Cedar Pages WD-33 to WD-38 Douglas Fir Page WD-39 Whitewoods Pages WD-40 to WD-42 Treated Pine Pages WD-43 to WD-55 Post and Rail Pages WD-56 to WD-61 Guard Rails Page WD-62 Wood Accessories Pages WD-63 to WD-80 
+Vinyl 
+Legend® - LGB Series Pages PVC-1 to PVC-24 Impressions® - IMB Series Pages PVC-25 to PVC-38 Legend® - LGN Series Pages PVC-39 to PVC-75 Legend® - LGD Series Pages PVC-76 to PVC-88 Illusions® - ILS Series Pages PVC-89 to PVC-115 D&D Gate Hardware Pages PVC-116 to PVC-117 
+Table of Contents 
+Ornamental Aluminum 
+Echelon Plus® Pages OA-1 to OA-14 Colonial® Pages OA-15 to OA-24 Colonial Plus® Pages OA-25 to OA-36 Independence™ Pages OA-37 to OA-46 Independence™ Plus Pages OA-47 to OA-58 Independence™ Premium Pages OA-59 to OA-69 D&D Gate Hardware Pages OA-70 to OA-72 
+Ornamental Steel 
+Classic Premier™ - Commercial Pages OS-1 to OS-16 Classic Premier™ - Industrial Pages OS-17 to OS-38 Montage® Pages OS-39 to OS-64 Montage® Plus Pages OS-65 to OS-94 Remington™ Texas Pages OS-95 to OS-100 Remington™ West Pages OS-101 to OS-104 Remington™ Plus Pages OS-105 to OS-107 Monumental Iron Works® Pages OS-108 to OS-110 D&D Gate Hardware Pages OS-111 to OS-112 
+Special Products 
+Temporary Panels Pages SP-1 to SP-2 Windscreen Page SP-3 
+Barricades Page SP-4 
+Access Controls Pages SP-5 to SP-16 Guard Rails Page SP-17 Wire Rope Page SP-18 E-Z Rail Fittings Pages SP-19 to SP-20 
+Concrete & Tools 
+Concrete Page CT-1 
+Tools Pages CT-2 to CT-8 Augers and Auger Accessories Pages CT-9 to CT-11 Post Drivers AND !CCessories Pages CT-12 to CT-13
+COV-3 
+Data
+CONVERSION TABLE – U.S. TO METRIC 
+FROM U.S. TO METRIC MULTIPLY BY 
+Inches Millimeters 25.40 
+Inches Centimeters 2.54 
+Inches Meter 0.0254 
+Length 
+Weight Area 
+Feet Millimeters 304.8 Feet Centimeters 30.48 Feet Meter 0.3048 Yard Centimeters 91.44 Yard Meter 0.9144 
+lb. Kilogram 0.4536 oz./ft.2 G/M2 305.16 lb./ft. KG/M 1.488 Sq. Mile KM2 2.59 Sq. Ft. M2 0.0929 Sq. Inch MM2 645.16 Acre M2 4046.87 
+COMMON DIMENSIONS – METRIC EQUIVALENTS 
+FRACTION INCHES DECIMAL INCHES (MM) MILLIMETERS FRACTION INCHES DECIMAL INCHES (MM) MILLIMETERS 3/8" 0.375 9.525 2-3/8" 2.375 60.30 1/2" 0.500 12.70 2-7/8" 2.875 73.00 5/8" 0.625 15.90 3-1/2" 3.500 88.90 
+1" 1.000 25.40 4" 4.000 101.60 1-3/8" 1.315 33.40 4-1/2" 4.500 114.30 1-5/8" 1.660 42.20 6-5/8" 6.625 168.30 1-7/8" 1.900 48.30 8-5/8" 8.625 219.10 
+COV-4 
+Data
+CHAIN-LINK WIRE SIZE – METRIC EQUIVALENT 
+GAUGE NO. DECIMAL INCHES (MM) MILLIMETERS 6 0.192 4.88 
+9 0.148 3.76 
+11 0.120 3.05 
+11-1/2 0.113 2.87 
+CHAIN-LINK HEIGHT – METRIC EQUIVALENT 
+TRADE SIZE INCHES (MM) MILLIMETERS 3' 36" 914 
+3-1/2' 42" 1067 
+4' 48" 1219 
+5' 60" 1524 
+6' 72" 1829 
+7' 84" 2134 
+8' 96" 2438 
+9' 108" 2743 
+10' 120" 3048 
+12' 144" 3658 
+CHAIN-LINK MESH SIZE – METRIC EQUIVALENT 
+TRADE SIZE DECIMAL INCHES (MM) MILLIMETERS 3/8" 0.375 9.52 
+1/2" 0.500 12.70 
+5/8" 0.625 15.87 
+3/4" 0.750 19.05 
+1" 1.000 25.40 
+1-1/4" 1.250 31.75 
+1-1/2" 1.500 38.10 
+1-3/4" 1.750 44.45 
+2" 2.000 50.80 
+2-1/8" 2.125 53.98 
+2-1/4" 2.250 57.15 
+COV-5 
+Data
+FULL WEIGHT PIPE (SCHEDULE 40) – METRIC EQUIVALENTS 
+TRADE SIZEOUTSIDE DIAMETER WALL THICKNESS WEIGHT DECIMAL INCHES (MM) MILLIMETERS DECIMAL INCHES (MM) MILLIMETERS LBS/FT KG/M 
+1.315 33.40 
+	0.133 3.38 
+	1.660 42.20 
+	0.140 3.56 
+	1.900 48.30 
+	0.145 3.68 
+	2.375 60.30 
+	0.154 3.91 
+	2.875 73.00 
+	0.203 5.16 
+	3.500 88.90 
+	0.216 5.49 
+	4.000 101.60 
+	0.226 5.74 
+	4.500 114.30 
+	0.237 6.02 
+	6.625 168.30 
+	0.280 7.11 
+	8.625 219.10 
+	0.322 8.18 
+	
+
+
+
+1-3/8" 1.68 2.50 1-5/8" 2.27 3.40 1-7/8" 2.72 4.00 2-3/8" 3.65 5.40 2-7/8" 5.79 8.60 3-1/2" 7.58 11.30 
+4" 9.11 13.60 4-1/2" 10.79 16.10 6-5/8" 18.97 28.30 8-5/8" 28.55 42.50 
+DQ 40 PIPE – METRIC EQUIVALENTS 
+TRADE SIZEOUTSIDE DIAMETER WALL THICKNESS WEIGHT DECIMAL INCHES (MM) MILLIMETERS DECIMAL INCHES (MM) MILLIMETERS LBS/FT KG/M 
+1.315 33.40 
+	0.104 2.64 
+	1.660 42.20 
+	0.111 2.81 
+	1.900 48.30 
+	0.120 3.04 
+	2.375 60.30 
+	0.130 3.30 
+	2.875 73.00 
+	0.160 4.06 
+	3.500 88.90 
+	0.160 4.06 
+	4.000 101.60 
+	0.160 4.06 
+	
+
+
+
+1-3/8" 1.34 2.00 1-5/8" 1.83 2.80 1-7/8" 2.28 3.40 2-3/8" 3.12 4.70 2-7/8" 4.64 6.90 3-1/2" 5.71 8.50 4" 6.56 9.80 
+POST LENGTH – METRIC EQUIVALENTS 
+TRADE SIZE (MM) MILLIMETERS TRADE SIZE (MM) MILLIMETERS 6' 1829 10' 3048 6' 6" 1981 10' 6" 3200 7' 2134 11' 3353 7' 6" 2286 11' 6" 3505 8' 2438 12' 3658 8' 6" 2591 12' 6" 3810 8' 8" 2641 13' 3962 9' 2743 13' 6" 4115 9' 6" 2896 14' 4267 
+COV-6 
+Data
+WIRE GAUGE – METRIC EQUIVALENTS 
+GAUGE NO. DECIMAL INCHES (MM) MILLIMETERS GAUGE NO. DECIMAL INCHES (MM) MILLIMETERS 5 0.2070 5.25 13 0.0915 2.32 6 0.1920 4.88 14 0.0800 2.03 7 0.1770 4.50 15 0.0720 1.83 8 0.1620 4.11 16 0.0625 1.59 9 0.1483 3.76 17 0.0540 1.37 10 0.1350 3.43 18 0.0475 1.21 11 0.1205 3.05 19 0.0410 1.04 12 0.1055 2.68 20 0.0348 0.88 
+SHEET GAUGE (H.R.P. & O.) – METRIC EQUIVALENTS 
+GAUGE NO. DECIMAL INCHES (MM) MILLIMETERS GAUGE NO. DECIMAL INCHES (MM) MILLIMETERS 5 0.2092 5.31 13 0.0897 2.28 6 0.1943 4.94 14 0.0747 1.90 7 0.1793 4.55 15 0.0673 1.71 8 0.1644 4.18 16 0.0598 1.52 9 0.1495 3.80 17 0.0538 1.37 10 0.1345 3.42 18 0.0478 1.21 11 0.1196 3.04 19 0.0418 1.06 12 0.1046 2.66 20 0.0359 0.91 
+COV-7 
+COV-8
+Chain Link 
+C    
+h
+Fabric 
+a
+i
+Pages CL-1 to CL-37 
+n
+ 
+L
+i
+n
+k 
+Pipe and Tube 
+Pages CL-38 to CL-81 
+Fittings 
+Pages CL-82 to CL-119 
+Accessories     
+Pages CL-120 to CL-129 
+Gate Fittings 
+Pages CL-130 to CL-172 
+Gates  
+Pages CL-173 to CL-216
+  
+  
+
+k 
+n
+i
+L 
+n
+ia
+hC
+Chain Link 
+Check List Find all of the products in  
+sections: 
+A Fabric 
+B Pipe and Tube 
+C Fittings 
+D Accessories 
+Fence - Fabric, Line Post 
+Fabric Rail 
+Rail 
+Fabric 
+Line Post 
+Ties 
+Line Post 
+Terminal 
+Post 
+Concrete 
+Hog Ring 
+Eye Top 
+Same length as fence,  minus gate openings. 
+Same length as fabric. 
+Space line posts equally,  maximum 10’ span. 
+A B B 
+Bottom Tension Wire Ties (Optional) 
+Same length as fence,  minus gate openings. 
+D 
+Hog Rings (Optional) Clips tension wire to  fabric, 1 for every 24”. 
+Sleeve 
+Use to join Plain End top  rails. 
+C 
+Ties 
+Connects top rail to  fabric, 1 for every 24”  of top rail. 
+Eye Top 
+1 for each line post. 
+C 
+Ties 
+Connects line post to  fabric, 1 for every 12”  of line post. 
+D 
+Fence - Terminal Post 
+Terminal Post 
+Larger diameter for end,  
+corner posts, pull posts. 
+B 
+C C 
+Rail End Brace Band 
+Tension Band 
+Secures tension bar/  fabric to posts. Use 1  for each foot in height. 
+C 
+Post Cap 
+1 for each terminal post. C 
+  
+TOOLS 
+Brace Band 
+1 for each rail end. 
+1 for each tension wire  connection. 
+C 
+Rail End 
+1 for each terminal post. 2 for each corner post. 
+C 
+Carriage Bolt 
+1 for each tension band. 1 for each brace band. 
+D
+Tension Bar 
+1 for each end post. 2 for each corner post. 
+C 
+Tension 
+ Bands 
+Brace Band (optional for  tension wire) 
+Concrete, Tape Measure, String & Stakes, Post Hole Digger, Wheelbarrow, Shovel, Carpenter’s Level, Pipe Cutter, Fence Stretcher, Hand Winch,  Pliers, Hog Ring Pliers 
+Chain Link - Fabric 
+Fence - Add Barb Wire 
+Barb Wire 
+Barb Arm 
+Barb Wire   
+Barb Arm 
+Line Post 
+Brace Band 
+Brace Bands 
+Terminal Post 
+Carriage Bolt 
+Same length as fence. D 
+1 for each line post. Replaces eye tops. 
+C 
+1 for each rail end. 1 for each barb wire  connection. 
+C 
+1 for each brace band. D 
+Fence - Add Middle Rail or Bottom Rail Rail 
+Same length as fence, minus gate openings. 
+B 
+Line Post Terminal Post 
+Option 1 for Line Posts 180° Brace Band 1 for each line post. 
+Carriage Bolt 2 for each 180° brace  
+Rail Ends 
+Option 1 
+180° Brace Band 
+C 
+Rail End 
+1 for each terminal post. 2 for each line or corner post. 
+C 
+Option 2 for Line Posts Line Rail Clamp 
+1 for each line post. 
+C 
+band. 
+D 
+Carriage Bolt 
+2 for each line rail clamp. D 
+Option 2 
+Middle Rail 
+Rail Ends Brace  
+Bands 
+Line Rail Clamp 
+Bottom Rail 
+Fence - Add Brace and Truss 
+Rail 
+Brace Band 
+Length from term post to line post B 
+Truss Rod 
+1 for each end post. 
+2 for each corner post. 
+1 for each rail end. C 
+Rail End 
+Line Post Terminal Post 
+Truss Rail End Rail End 
+Brace  
+Band
+1 for each terminal post. Brace Rail 
+C 
+Truss Tightener 1 for each truss rod. C 
+Truss Rail End 1 for each truss rod. C 
+C 
+Carriage Bolt 1 for each brace band. D 
+Truss Rod Brace  Bands 
+Truss Tightener 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-1 
+Chain Link - Fabric 
+Chain link fabric (a.k.a. “wire”) is manufactured by Master Halco  at several US locations. 
+Selvage describes how the ends of the chain link wires are  fi nished for the top and bottom of the fabric. Knuckle means  that the ends of the wires are folded over each other. Twist  means the wires are twisted together to form pointed prongs. Residential fabric uses larger mesh sizes and smaller gauges, and  commercial/industrial uses smaller mesh sizes and larger gauge  diameters. The smallest mesh sizes, from 1-1/4” to 3/8”, are  High Security/Mini-Mesh. 
+Galvanized Before Weaving (GBW) 
+In this process, the wire is pre-galvanized before it is formed into a fabric. The  weaving process creates an exposed cut end that will lack coating and be  more apt to some minor rust in wet and severe weather conditions. 
+Galvanized After Weaving (GAW) 
+This process forms or weaves chain-link into a fabric fi rst, and then soaks it in a  large galvanized bath which adheres the zinc coating. This ensures that all the  wire is coated, even the cut ends created during the weaving process. 
+Aluminized 
+Aluminum coated steel chain link fence fabric is made by cold drawing good  commercial grade steel rod into wire of the appropriate diameter. The steel  rod from which the wire is drawn is produced by the open hearth, electric  furnace or basic oxygen process. The coating process consists of passing the  cleaned wire through a molten bath of aluminum metal. 
+Selvage 
+Galvanized & Aluminized Wire Gauges Available Mesh Sizes
+
+
+Process
+	 Coating
+	 Gauge
+	 Diameter
+	 Class 
+	ASTM
+	GBW
+	0.80 oz 
+	11-1/2 
+	0.113” 
+	Class 3
+	 A 817 Type II
+	1.2 oz 
+	11-1/2 
+	0.113” 
+	Class 1 
+	A 392
+	1.2 oz 
+	11 
+	0.120” 
+	Class 1 
+	A 392
+	1.2 oz 
+	9 
+	0.148” 
+	Class 1 
+	A 392
+	GAW
+	1.2 oz 
+	11-1/2 
+	0.113” 
+	N/A 
+	N/A
+	1.2 oz 
+	11-1/2 
+	0.113” 
+	Class 1 
+	N/A
+	1.2 oz 
+	11 
+	0.120” 
+	Class 1 
+	A 392
+	1.2 oz 
+	9 
+	0.148” 
+	Class 1 
+	A 392
+	2.0 oz 
+	9 
+	0.148” 
+	Class 2 
+	A 392
+	1.2 oz 
+	9 
+	0.192” 
+	Class 1 
+	A 392
+	2.0 oz 
+	9 
+	0.192” 
+	Class 2 
+	A 392
+	Aluminized
+	0.30 oz 
+	11-1/2 
+	0.113” 
+	N/A
+	 A 491 Type I
+	0.40 oz 
+	9 
+	0.148” 
+	N/A
+	 A 491 Type I
+	0.40 oz 
+	6 
+	0.192” 
+	N/A
+	 A 491 Type I
+	
+
+
+
+CL-2 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Spectra 
+The galvanized steel core wire for producing extruded PVC coated steel chain  link fence fabric is produced by cold-drawing good commercial grade steel  rod into wire of the appropriate diameter. The steel rod from which the wire  is drawn is produced by the open hearth, electric furnace or basic oxygen  process. The galvanized coating is produced by passing the cleaned wire  through a bath of molten zinc which conforms to ASTM B6. The extruded PVC  coating is produced by extruding PVC at a coating thickness of 0.015” (.38mm)  - 0.025” (0.64 mm) over a galvanized core wire. 
+Spectra Bond 
+Extruded bonded vinyl is a better alternative to simple extruded wire. With  extruded bonded wire, the extruding process is taken one step further: an  adhesive is applied to the wire before being extruded with the vinyl coating.  This seals the vinyl to the wire to bond provides greater protection against  nature. 
+Permafused 
+Fused and Adhered vinyl coating. Coated using a polyolefi n coating, the  galvanized wire is fi rst heated, then coated, causing the wire and the plastic to  bond together, creating a better protective coating to prevent moisture from  penetrating to the steel core of the wire. 
+Chain Link - Fabric Spectra and Spectra Bond Finish Gauges 
+Permafused Finish Gauges 
+Available Mesh Sizes 
+  
+Spectra Extruded Spectra Bond Permafused 
+Brand / Process
+	 Wire ASTM
+	 Galv Coating
+	 Core Gauge*
+	 Finish Gauge*
+	 Type
+	 ASTM
+	Spectra / 
+Extruded
+	A 641
+	 0.30 
+	9 
+	6 
+	Class 1
+	 F668
+	Non-ASTM
+	 0.15 
+	11 
+	8 
+	Class 1
+	 N/A
+	Non-ASTM
+	 0.15 
+	13 
+	9 
+	Class 1
+	 N/A
+	Non-ASTM
+	 0.15 
+	14 
+	11 
+	Class 1
+	 N/A
+	Spectra Bond / Extruded Bonded
+	A 641
+	 0.30 
+	9 
+	6
+	 Class 2a
+	 F668
+	A 641
+	 0.30 
+	11 
+	8
+	 Class 2a
+	 F668
+	A 641
+	 0.30 
+	12 
+	9
+	 Class 2a
+	 F668
+	A 641
+	 0.25 
+	14 
+	11
+	 Class 2a
+	 F668
+	Permafused / 
+Fuse Bonded
+	A 641
+	 0.40 
+	6 
+	5
+	 Class 2b
+	 F668
+	A 641
+	 0.30 
+	7 
+	6
+	 Class 2b
+	 F668
+	A 641
+	 0.30 
+	9 
+	8
+	 Class 2b
+	 F668
+	A 641
+	 0.30 
+	10 
+	9
+	 Class 2b
+	 F668
+	A 641
+	 0.30 
+	11 
+	10
+	 Class 2b
+	 F668
+	A 641
+	 0.30 
+	12 
+	11
+	 Class 2b
+	 F668
+	
+
+
+
+* Use the bolded gauge (core or fi nish) for ordering.
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-3 
+Chain Link - Fabric 
+Galvanized Before Weaving (GBW)
+2-3/8” – 11-1/2 Gauge (0.113”) GBW / .80 oz./Ft.2 Zinc Coating Meets ASTM A817 Type II Class 3 • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 3’ 055479 — 1.09 42” 055478 — 1.28 4’ 055484 — 1.47 5’ 055485 — 1.83 6’ 055487 055486 2.20 
+2-1/4” – 11-1/2 Gauge (0.113”) GBW / .80 oz./Ft.2 Zinc Coating Meets ASTM A 392, Class 1 • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 4’ 055587 — 1.60 5’ 055588 — 1.99 6’ 055589 055590 2.40 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KT - Knuckle-Twist, also known as BK - Barb-Knuckle 
+TT - Twist-Twist, also known as BB - Barb-Barb 
+KK - Knuckle-Knuckle 
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+CL-4 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+2” – 11 Gauge (0.120”) GBW / 1.2 oz./ft.2 Zinc Coating Meets ASTM A 392, Class 1 • Feet Per Roll: 50 
+Chain Link - Fabric Galvanized Before Weaving (GBW)
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 3’ 055607 — 1.45 42” 055608 — 1.70 4’ 055609 — 1.95 5’ 055610 — 2.45 6’ 055611 055612 2.80 7’ 055614 055615 3.40 8’ 055617 055618 3.80 10’ 055620 055621 4.85 12’ 055623 055624 5.80 
+2 “ – 9 Gauge (0.148”) GBW / 1.2 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 1 • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 3’ 055630 — 2.15 42” 055631 — 2.51 4’ 055632 — 2.90 5’ 055633 — 3.60 6’ 055635 055636 4.30 7’ 055638 055639 5.05 8’ 055641 055642 5.80 10’ 055644 055645 7.20 12’ 055647 055648 8.70 
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+CL-5 
+Chain Link - Fabric 
+Hot Dip Galvanized After Weaving (GAW) 
+2-3/8” – 11-1/2 Gauge (0.113”) GAW / 1.2 oz./ft.2 Zinc Coating Meets ASTM A 392, Class 1 • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 3’ 056202 — 1.13 42” 056203 — 1.31 4’ 056204 — 1.49 5’ 056205 — 1.85 6’ 056219 056206 2.25 7’ 056220 056207 2.65 8’ 056221 056208 2.98 
+2-1/4” – 11-1/2 Gauge (0.113”) GAW / 1.2 oz./ft.2 Zinc Coating Meets ASTM A 392, Class 1 • Feet Per Roll: 50
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 3’ 056102 — 1.19 42” 056103 — 1.39 4’ 056104 — 1.58 5’ 056105 — 1.97 6’ 056139 056106 2.37 7’ 056177 056167 2.81 8’ 056168 056138 3.20 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KT - Knuckle-Twist, also known as BK - Barb-Knuckle 
+TT - Twist-Twist, also known as BB - Barb-Barb 
+KK - Knuckle-Knuckle 
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+CL-6 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+2” – 11 Gauge (0.120”) GAW / 1.2 oz./ft.2 Zinc Coating Meets ASTM A 392, Class 1 • Feet Per Roll: 50 
+Chain Link - Fabric Hot Dip Galvanized After Weaving (GAW) 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 3’ 054402 — — 1.45 42” 054403 — — 1.69 4’ 054404 — — 1.93 5’ 054405 — — 2.41 6’ 054417 054406 054434 2.95 7’ 054436 054407 054437 3.44 8’ 054439 054408 054440 3.93 10’ 054420 054410 054442 4.92 12’ 054444 054412 054445 5.90 
+2” – 9 Gauge (0.148”) GAW / 1.2 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 1 • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 3’ 055402 — — 2.18 42” 055403 — — 2.50 4’ 055404 — — 2.87 5’ 055405 — — 3.59 6’ 055417 055406 055446 4.30 7’ 055461 055460 055407 5.02 8’ 055463 055464 055408 5.78 9’ 055409 055411 055413 6.46 10’ 055410 055466 055467 7.18 12’ 055412 055469 055470 8.61 
+2” – 9 Gauge (0.148”) GAW / 1.2 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 1 • Feet Per Roll: 100
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 4’ 055380 — — 2.87 5’ 055381 — — 3.59 6’ 056411 056410 055382 4.30 7’ 055383 055384 055385 5.02 8’ 055386 055387 055388 5.78 10’ 007460 N00547 — 7.18 12’ — — N01133 8.41 
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+CL-7 
+Chain Link - Fabric 
+Hot Dip Galvanized After Weaving (GAW) 
+2” – 9 Gauge (0.148”) GAW / 2.0 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 2 • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 3’ 055422 055433 055434 2.23 42” 055423 055435 055436 2.61 4’ 055424 055437 055438 2.98 5’ 055425 055439 055440 3.71 6’ 055426 055441 055442 4.46 7’ 055427 055443 055444 5.20 8’ 055428 055445 055447 5.95 9’ 055429 055559 055551 6.69 10’ 055430 055553 055554 7.44 12’ 055432 055555 055556 8.92 
+2” – 9 Gauge (0.148”) GAW / 2.0 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 2 • Feet Per Roll: 100 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 4’ 190J00 — — 2.98 5’ 055453 — — 3.71 6’ 055389 055390 055391 4.46 7’ 055392 055393 055394 5.20 8’ 055395 055396 055397 5.95 10’ — 466C00 055398 7.44 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KT - Knuckle-Twist, also known as BK - Barb-Knuckle 
+TT - Twist-Twist, also known as BB - Barb-Barb 
+KK - Knuckle-Knuckle
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+CL-8 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+2” – 6 Gauge (0.192”) GAW / 1.2 oz./ft.2 Zinc Coating Meets ASTM A 392, Class 2 • Feet Per Roll: 25
+Chain Link - Fabric Hot Dip Galvanized After Weaving (GAW) 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 3’ 055302 — — 3.83 42” 055303 — — 4.46 4’ 055304 — — 5.12 5’ 055305 — — 6.38 6’ 055340 055306 055341 7.65 7’ 055342 055343 055307 8.93 8’ 055344 055345 055308 10.20 9’ 055346 055347 055309 11.48 10’ 055310 055348 055349 12.75 12’ 055312 055350 055351 15.30 
+2” – 6 Gauge (0.192”) GAW / 2.0 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 2 • Feet Per Roll: 25 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 3’ — — — 3.85 4’ 055321 — — 5.15 5’ 055374 — — 6.41 6’ 055314 055352 055326 7.71 7’ 005023 055318 055327 8.98 8’ 055320 055353 055328 10.28 9’ 055346 055347 055309 11.32 10’ 055376 057259 055330 12.82 12’ 055378 055313 055331 15.38 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KT - Knuckle-Twist, also known as BK - Barb-Knuckle 
+TT - Twist-Twist, also known as BB - Barb-Barb 
+KK - Knuckle-Knuckle 
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+CL-9 
+Chain Link - Fabric 
+Hot Dip Galvanized After Weaving (GAW) 
+1-3/4” – 11 Gauge (0.120”) GAW / 1.2 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 1 • Feet Per Roll: 50 
+HEIGHT KK PART NO. WEIGHT PER FT. NOTES 10’ 054310 5.65 12’ 054312 6.78 
+1-3/4” – 9 Gauge (0.148”) GAW / 1.2 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 1 • Feet Per Roll: 50 
+HEIGHT KK PART NO. WEIGHT PER FT. NOTES 10’ 054320 8.48 12’ 054322 10.18 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+CL-10 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+Aluminized 
+2-1/4” – 11-1/2 Gauge (0.113”) Aluminized / .30 oz./ft.2 Aluminum Coating 
+Meets ASTM A 491 • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 
+3’ 057052 — — 1.20 
+42” 057053 — — 1.40 
+4’ 057054 — — 1.60 
+5’ 057055 — — 2.00 
+6’ 057057 057056 — 2.40 
+2” – 9 Gauge (0.148”) Aluminized / .40 oz./ft.2 Aluminum Coating 
+Meets ASTM A 491 • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 
+3’ 057202 — — 2.00 
+42” 057203 — — 2.33 
+4’ 057204 — — 2.67 
+5’ 057205 — — 3.33 
+6’ 057214 057206 057213 4.00 
+7’ 057216 057207 057215 4.67 
+8’ 057218 057208 057217 5.33 
+10’ 057210 057219 057220 6.67 
+12’ 057212 057221 057222 8.00 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KT - Knuckle-Twist, also known as BK - Barb-Knuckle 
+TT - Twist-Twist, also known as BB - Barb-Barb 
+KK - Knuckle-Knuckle
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+CL-11 
+Chain Link - Fabric 
+Aluminized 
+2” – 6 Gauge (0.192”) Aluminized / .40 oz./ft.2 Aluminum Coating Meets ASTM A 491 • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 4’ 057236 — — 4.74 5’ 057239 — — 5.93 6’ 057242 057243 057244 7.12 7’ 057245 057246 057247 8.30 8’ 057248 057249 057250 8.30 10’ 057251 057252 057253 11.86 12’ 057254 057255 057256 14.23 
+1-3/4” – 11 Gauge (0.120”) Aluminized / .35 oz./ft.2 Aluminum Meets ASTM A 491• Feet Per Roll: 50 
+HEIGHT KK PART NO. WEIGHT PER FT. NOTES 10’ 057110 5.20 12’ 057112 6.24 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KT - Knuckle-Twist, also known as BK - Barb-Knuckle 
+TT - Twist-Twist, also known as BB - Barb-Barb 
+KK - Knuckle-Knuckle
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+CL-12 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+Spectra® 
+2” – 13 Gauge Core / 9 Gauge Finish Spectra® (Extruded PVC) 
+Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 
+3’ 51314_ — — 1.08 
+42” 51315_ — — 1.26 
+4’ 51316_ — — 1.44 
+5’ 51317_ — — 1.80 
+6’ 51318_ 51358_ 51368_ 2.16 
+7’ 51319_ 51359_ — 2.52 
+8’ 51320_ 51360_ 51370_ 2.90 
+10’ 51322_ 51362_ — 3.60 
+12’ 51324_ 51515_ — 4.35 
+2” – 11 Gauge Core / 8 Gauge Finish Spectra® (Extruded PVC) 
+Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 
+3’ 51482_ — 1.08 
+42” 51484_ — 1.26 
+4’ 51486_ — 1.44 
+5’ 51488_ — 1.80 
+6’ 51490_ 51491_ 2.16 
+7’ 51492_ — 2.52 
+8’ 51494_ 51495_ 2.90 
+10’ 51496_ — 3.60 
+12’ 51498_ — 4.35 
+Spectra® 
+• Other selvages available on special order. 
+• Other sizes and colors available on special quotation. • Setup charges my apply for quantities less than 300 feet of non-stock items. Please inquire at your local branch. 
+• Add the following number to the part no. for desired color: 1-Forest Green 2-Midnight Black 3-Sierra Brown 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KT - Knuckle-Twist, also known as BK - Barb-Knuckle TT - Twist-Twist, also known as BB - Barb-Barb KK - Knuckle-Knuckle
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+CL-13 
+Chain Link - Fabric 
+Spectra® 
+2” – 9 Gauge Core / 6 Gauge Finish Spectra® (Extruded PVC) Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. TT PART NO. WEIGHT PER FT. NOTES 3’ 51302_ — — 1.61 42” 51303_ — 1.87 4’ 51304_ — — 2.14 5’ 51305_ — — 2.68 6’ 51306_ 51297_ 51289_ 3.21 7’ 51307_ 51298_ 51290_ 3.57 8’ 51308_ 51299_ 51291_ 4.28 10’ 51310_ 51300_ — 5.35 12’ 51312_ — — 6.42 
+1-3/4” – 13 Gauge Core / 9 Gauge Finish Spectra® (Extruded PVC) 
+HEIGHT KK PART NO. 30’ ROLL 
+KK PART NO. 
+50’ ROLL WEIGHT PER FT. NOTES 
+4’ 51330_ 1.72 
+5’ 51331_ 2.15 
+6’ 51332_ 2.58 
+7’ 51337_ 3.01 
+8’ 51333_ 3.44 
+10’ 51338_ 51340_ 4.30 
+12’ 51339_ 51342_ 5.16 
+1-3/4” – 11 Gauge Core / 8 Gauge Finish Spectra® (Extruded PVC) 
+Feet Per Roll: 50 
+HEIGHT KK PART NO. WEIGHT PER FT. NOTES 
+10’ 51480_ 5.92 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KT - Knuckle-Twist, also known as BK - Barb-Knuckle 
+Add the following number to the part no. for desired color: 1-Forest Green 2-Midnight Black 3-Sierra Brown 
+TT - Twist-Twist, also known as BB - Barb-Barb KK - Knuckle-Knuckle
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+CL-14 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+Spectra Bond® 
+2” – 11 Gauge Core / 8 Gauge Finish Spectra Bond® (Extruded Bonded PVC) 
+Meets ASTM F 668, Class 2a • Feet Per Roll: 50 
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 
+6’ 48433_ 48434_ 3.12 
+7’ 48435_ 48436_ 3.64 
+8’ 48437_ 48438_ 4.16 
+2” – 9 Gauge Core / 6 Gauge Finish Spectra Bond® (Extruded Bonded PVC) 
+Meets ASTM F 668, Class 2a • Feet Per Roll: 25 
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 
+3’ 48410_ — 2.43 
+42” 48411_ — 2.84 
+4’ 48412_ — 3.24 
+5’ 48413_ — 4.05 
+6’ 48400_ 48405_ 4.50 
+7’ 48401_ 48406_ 5.25 
+8’ 48402_ 48407_ 6.00 
+10’ 48403_ — 7.50 
+12’ 48404_ — 9.00 
+1-3/4” – 11 Gauge Core / 8 Gauge Finish Spectra Bond® (Extruded Bonded PVC) Meets ASTM F 668, Class 2a • Feet Per Roll: 50 
+HEIGHT KK PART NO. WEIGHT PER FT. NOTES 
+10’ 48439_ 6.04 
+12’ 48440_ 7.25 
+1-3/4” – 9 Gauge Core / 6 Gauge Finish Spectra Bond® (Extruded Bonded PVC) 
+Meets ASTM F 668, Class 2a • Feet Per Roll: 25 
+HEIGHT KK PART NO. WEIGHT PER FT. NOTES 
+10’ 48408_ 9.00 
+12’ 48409_ 10.84 
+Add the following number to the part no. for desired color: 
+1-Forest Green 2-Midnight Black 3-Sierra Brown
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+CL-15 
+Chain Link - Fabric 
+Permafused 
+2” – 9 Gauge Core / 8 Gauge Finish Permafused (Fused and Adhered) Meets ASTM F 668, Class 2b • Feet Per Roll: 25 or 50 
+HEIGHT KK PART NO. KT PART NO. WEIGHT PER FT. NOTES 3’ 48598_ — 2.25 42” 48599_ — 2.63 4’ 48600_ — 3.00 5’ 48601_ — 3.75 6’ 48602_ 48608_ 4.50 7’ 48603_ 48609_ 5.25 8’ 48604_ 48610_ 6.00 10’ 48605_ 48611_ 7.50 12’ 48606_ 48607_ 9.00 
+1-Forest Green, 25’ roll 2-Midnight Black, 25’ roll 3-Sierra Brown, 25’ roll 
+5-Forest Green, 50’ roll 6-Midnight Black, 50’ roll 9-Sierra Brown, 50’ roll 
+Only applies to 2” - 9 Gauge Core / 8 Gauge Finished Permafused 
+1-3/4” – 9 Gauge Core / 8 Gauge Finish Permafused (Fused and Ahered) Meets ASTM F 668, Class 2b • Feet Per Roll: 25 
+HEIGHT KK PART NO. WEIGHT PER FT. NOTES 10’ 48613_ 9.00 12’ 48612_ 10.84 
+Permafused 
+• Other selvages available on special order. 
+• Other sizes and colors available on special quotation. • Setup charges my apply for quantities less than 300 feet of non-stock items. Please inquire at your local branch. 
+• Add the following number to the part no. for desired color: 1-Forest Green 2-Midnight Black 3-Sierra Brown 
+Extra charge for broken rolls. 
+SELVAGE ABBREVIATIONS: 
+KT - Knuckle-Twist, also known as BK - Barb-Knuckle TT - Twist-Twist, also known as BB - Barb-Barb KK - Knuckle-Knuckle
+SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+CL-16 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Slat Master® 80% Privacy - 9 Gauge GBW - Stapled 
+Plastic Slats, Galvanized Chain Link Fabric 
+3-1/2” x 5” Mesh, 1.20 oz./ft.2 Zinc Coating 
+2-3/8” Polyethylene Slats 
+• Feet Per Roll: 25 
+Add the following number to the part number for the desired slat color: 
+0 - Tan 1 - Green 2 - Black 3 - Brown 4 - White 5 - Gray 6 - Redwood 7 - Sky Blue 
+HEIGHT KK PART NO. PT PART NO. WEIGHT PER FT. NOTES 4’ 51010_ 50501_ 3.10 
+5’ 51011_ 50502_ 3.87 
+6’ 51012_ 50503_ 4.81 
+7’ 51013_ 50504_ 5.55 
+8’ 51014_ 50505_ 6.18 
+10’ 51015_ 50506_ 7.74 
+12’ 51016_ 50507_ 9.61 
+Slat Master® 95% Privacy - 9 Gauge GBW  
+Plastic Slats, Galvanized Chain Link Fabric 
+3-1/2” x 5” Mesh, 1.20 oz./ft.2 Zinc Coating 
+2-13/16” Polyethylene Slats 
+• Feet Per Roll: 25 
+Add the following number to the part number for the desired slat color: 
+0 - Tan 1 - Green 2 - Black 3 - Brown 4 - White 5 - Gray 6 - Redwood 7 - Sky Blue 
+HEIGHT KK PART NO. PT PART NO. WEIGHT PER FT. NOTES 5’ 51021_ — 3.90 
+6’ 51022_ 50508_ 4.68 
+7’ 51023_ 50514_ 5.50 
+8’ 51024_ 50515_ 6.28 
+10’ 51025_ — 7.33 
+12’ 51026_ — 9.17 
+Available in full rolls only. 
+Chain Link - Fabric Slat Master® 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+PT - Pig Tail
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-17 
+Chain Link - Fabric 
+Slat Master® 
+Slat Master® 95% Privacy - PermaFused 9 Gauge Core / 8 Gauge Finish 
+Plastic Slats, Fused & Adhered Chain Link Fabric 
+3-1/2” x 5” Mesh 
+Coating 2-13/16” Polyethylene Slats 
+• Feet Per Roll: 25 
+Other colors are available: Inquire at your local branch. 
+SELVAGE: KK 
+SLAT COLOR / FABRIC COLOR 
+HEIGHT GREEN/GREEN BLACK/BLACK BROWN/BROWN WEIGHT PER FT. NOTES 5’ — 510282 510283 3.90 
+6’ — 510272 510273 4.86 
+SELVAGE: PT 
+SLAT COLOR / FABRIC COLOR 
+HEIGHT GREEN/GREEN BLACK/BLACK BROWN/BROWN WEIGHT PER FT. NOTES 4’ — 175P00 312D00 3.10 
+5’ — — 823V00 3.87 
+6’ — — 504993 4.81 
+7’ — 504792 — 5.55 
+8’ 504781 504782 — 6.18 
+10’ — 504852 — 7.74 
+Available in full rolls only. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+PT - Pig Tail
+CL-18 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+Slat Master® 
+Slat Master® 80% Privacy - Stapled - 9 Gauge Core / 8 Gauge Finish 
+Plastic Slats, PermaFused Chain Link 
+3-1/2” x 5” Mesh 
+2-3/8” Polyethylene Slats 
+• Feet Per Roll: 25 
+Other colors are available: Inquire at your local branch. 
+SELVAGE: KK 
+SLAT COLOR / FABRIC COLOR 
+HEIGHT BLACK/BLACK WEIGHT PER FT. NOTES 
+5’ 510302 3.87 
+6’ 302J00 4.81 
+7’ 510612 5.55 
+8’ 510291 6.18 
+10’ 510292 7.74 
+SELVAGE: PT 
+SLAT COLOR / FABRIC COLOR 
+HEIGHT GREEN/GREEN BLACK/BLACK BROWN/BROWN WEIGHT PER FT. NOTES 
+4’ — 207O00 — 4.10 
+5’ 881T00 — — 4.25 
+6’ 505001 505002 505003 5.00 
+7’ 214Y00 — — 5.55 
+8’ 504881 351L00 N00714 8.20 
+12’ 215Y00 — — 9.61 
+Available in full rolls only. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+PT - Pig Tail
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-19 
+Chain Link - Fabric 
+Slat Master® 
+Slat Master® 95% Privacy - 10 Gauge GBW  
+Plastic Slats, Galvanized Chain Link 
+3-1/2” x 5” Mesh, 1.2 oz./ft.2 Zinc Coating 
+2-13/16” Polyethylene Slats 
+• Feet Per Roll: 25 
+SELVAGE: KK 
+HEIGHT TAN GREEN BLACK BROWN WHITE GREY REDWOOD SKY BLUE WEIGHT PER FT. NOTES 3’ 505120 505121 — — 505120 505125 505126 — 2.40 4’ 505130 505131 ———— 505136 — 3.10 5’ 505220 500V00 ————— — 3.87 6’ 505110 505111 — 505113 505114 505115 505116 — 4.81 7’ 505180 467W00 — 505193 505184 — 505186 — 5.55 8’ — — — — 505234 506V00 — 628V00 6.07 
+Slat Master® 95% Privacy - PermaFused 10 Gauge Core / 9 Gauge Finish 
+Plastic Slats, Fused & Adhered Chain Link Fabric 
+3-1/2” x 5” Mesh 
+2-13/16” Polyethylene Slats 
+• Feet Per Roll: 25 
+SELVAGE: KK 
+SLAT COLOR / FABRIC COLOR 
+HEIGHT TAN/TAN GREEN/GREEN BLACK/BLACK BROWN/BROWN REDWOOD/REDWOOD WEIGHT PER FT. NOTES 3’ — — — 505243 832X00 3.10 4’ 502000 — — 505133 — 3.87 6’ — 505203 301J00 505183 505206 4.81 7’ 962X00 — — 234Y00 — 5.55 8’ — — — 007687 — 6.18 
+Available in full rolls only. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle
+CL-20 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+Slat Master® 
+Slat Master® 80% Privacy - Replacement Slats 
+Plastic Slats 
+2-3/8” High Density Polyethylene Slats 
+• 90 pieces per bag. Approximate coverage per bag: 18 linear feet. 
+HEIGHT TAN GREEN BLACK BROWN REDWOOD WEIGHT EA. NOTES 4’ — 203811 — 203813 203816 0.24 
+5’ — 203821 203822 203823 203826 0.30 
+6’ 203830 203831 203832 203833 203836 0.36 
+7’ — — — 203843 — 0.47 
+8’ 203850 203851 203852 203853 203856 0.48 
+10’ 203860 203861 203862 203863 203866 0.67 
+Slat Master® 95% Privacy - Replacement Slats 
+Plastic Slats 
+2-13/16” High Density Polyethylene Slats 
+• 106 pieces per bag. Approximate coverage per bag: 25 linear feet. 
+HEIGHT TAN GREEN BLACK BROWN REDWOOD WEIGHT EA. NOTES 4’ 204680 — — 204683 — 0.27 
+5’ 204690 204691 — 204693 204696 0.33 
+6’ 204700 204701 204702 204703 204706 0.40 
+7’ — — — 204713 204716 0.47 
+8’ 204720 204721 — 204723 204726 0.54 
+Special heights available upon request.
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-21 
+Chain Link - Fabric Accessories Chain Link Slats 
+Bottom-Locking Slats / High Density Polyethelene (HDPE) 
+•ADD THE FOLLOWING NUMBER TO THE PART NUMBER FOR DESIRED COLOR: 0-Beige 1- Green 2-Black 3-Brown 4-White 5-Gray 6-Redwood 7-Sky Blue Note: Only sold in full bags. 
+Packaging will be in plastic bags. 
+Privacy - Approximately 75% 
+SLAT TYPE 
+SLAT 
+WIDTH 
+MESH SIZE 
+WIRE 
+GAUGE 
+SLATS 
+PER BAG 
+APPROX 
+COVERAGE PER BAG 
+2” Slat 1-3/32” 2” 8, 9, or 11 82 10 linear feet 2 1/4” Slat 1-1/4” 2-1/4 or 2-3/8” 11-1/2 or 12-1/2” 78 10 linear feet 1 3/4” Slat 7/8" 1-3/4” 8, 9, or 11 100 10 linear feet 1 3/4” Slat 7/8” 2” 6 100 10 linear feet 
+DESCRIPTION PART NO. 2” SLAT 
+PART NO. 2-1/4” SLAT 
+WEIGHT 
+PER PKG. NOTES 
+3’ Fence Height 20280_ 20369_ 8.00 42” Fence Height 20281_ 20370_ 10.00 4' Fence Height 20282_ 20371_ 11.00 5’ Fence Height 20283_ 20372_ 14.00 6’ Fence Height 20284_ 20373_ 17.00 7’ Fence Height 20285_ 20374_ 20.00 8’ Fence Height 20286_ 20375_ 23.00 10’ Fence Height 20288_ 20377_ 29.00 12’ Fence Height 20289_ 20379_ 35.00
+Bottom Channel / High Density Polyethelene (HDPE) 
+ADD THE FOLLOWING NUMBER TO THE PART NUMBER FOR DESIRED COLOR: 
+0-Beige 1- Green 2-Black 3-Brown 4-White 5-Gray 6-Redwood 
+DESCRIPTION PART NO. PER PALLET WEIGHT EA. NOTES 40” Length 20155_ 50 0.50 
+All special and non-stock items will be shipped collect — F.O.B. Factory SPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+CL-22 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric Accessories 
+Chain Link Slats 
+Top-Locking Slats / High Density Polyethelene (HDPE) 
+ADD THE FOLLOWING NUMBER TO THE PART NUMBER FOR DESIRED COLOR: 
+0-Beige 1- Green 2-Black 3-Brown 4-White 5-Gray 6-Redwood 7-Sky Blue 
+Note: Only sold in full bags. 
+Packaging will be in plastic bags. 
+Privacy - Approximately 75% 
+SLAT TYPE 
+SLAT 
+WIDTH 
+MESH SIZE 
+WIRE 
+GAUGE 
+SLATS 
+PER BAG 
+APPROX 
+COVERAGE PER BAG 
+2” Slat 1-3/32” 2” 8, 9, or 11 82 10 linear feet 2 1/4” Slat 1-1/4” 2-1/4 or 2-3/8” 11-1/2 or 12-1/2” 78 10 linear feet 1 3/4” Slat 7/8" 1-3/4” 8, 9, or 11 100 10 linear feet 1 3/4” Slat 7/8” 2” 6 100 10 linear feet 
+DESCRIPTION PART NO. 2” SLAT 
+PART NO. 2-1/4” SLAT 
+WEIGHT 
+PER PKG. NOTES 
+3’ Fence Height 20450_ 20459_ 8.00 42” Fence Height 20451_ 20460_ 10.00 4' Fence Height 20452_ 20461_ 11.00 5’ Fence Height 20453_ 20462_ 14.00 6’ Fence Height 20454_ 20463_ 17.00 7’ Fence Height 20455_ 20464_ 20.00 8’ Fence Height 20456_ 20465_ 23.00 10’ Fence Height 20457_ 20466_ 29.00 12’ Fence Height 20458_ 20467_ 35.00 
+All special and non-stock items will be shipped collect — F.O.B. FactorySPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+CL-23 
+Chain Link - Fabric Accessories 
+Chain Link Slats 
+Winged Slat® / High Density Polyethelene (HDPE) 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+ADD THE FOLLOWING NUMBER TO THE PART NUMBER FOR DESIRED COLOR: 
+0-Beige 1- Green 2-Black 3-Brown 4-White 5-Gray 6-Redwood 7-Sky Blue 8-Navy Blue Note: Only sold in full bags. 
+Packaging will be in plastic bags. 
+Privacy - Approximately 90% 
+SLAT TYPE 
+SLAT 
+WIDTH 
+MESH SIZE 
+WIRE 
+GAUGE 
+SLATS 
+PER BAG 
+APPROX 
+COVERAGE PER BAG 
+Winged Slat 1-1/4” 2” 9 only 82 10 linear feet 
+DESCRIPTION PART NO. 2” MESH 
+WEIGHT 
+PER PKG. NOTES 
+4' Fence Height 19956_ 12.00 5’ Fence Height 19957_ 15.00 6’ Fence Height 19958_ 18.00 7’ Fence Height 19963_ 22.00 8’ Fence Height 19959_ 25.00 
+M - Slat / High Density Polyethelene (HDPE) 
+ADD THE FOLLOWING NUMBER TO THE PART NUMBER FOR DESIRED COLOR: 0-Beige 1- Green 2-Black 3-Brown 4-White 5-Gray 6-Redwood 7-Sky Blue Note: Only sold in full bags. 
+Packaging will be in plastic bags. 
+Privacy - Approximately 90% 
+SLAT TYPE 
+SLAT 
+WIDTH 
+MESH SIZE 
+WIRE 
+GAUGE 
+SLATS 
+PER BAG 
+APPROX 
+COVERAGE PER BAG 
+M-Slat 1-1/4” 2” , 2 1/4”, or 2 3/8” 9, 11, or 11 1/2” 82 10 linear feet WEIGHT 
+DESCRIPTION PART NO. 
+PER PKG. NOTES 
+4' Fence Height 20167_ 7.2 
+5’ Fence Height 20166_ 9.0 
+6’ Fence Height 20395_ 10.8 
+7’ Fence Height 20428_ 11.0 
+8’ Fence Height 20429_ 14.0 
+All special and non-stock items will be shipped collect — F.O.B. FactorySPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+CL-24 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric Accessories 
+Safety Top Cap 
+Safety Top Cap / High Density Polyethelene (HDPE) 
+ADD THE FOLLOWING NUMBER TO THE PART NUMBER FOR DESIRED COLOR: 
+1- Green 2-Black 9 Safety Yellow 
+Note: Only sold in full bags, 5 cap sections per bag 
+• Cap sections are 8’ long, 5-1/2” high, 2-3/4” wide 
+• Coverage per bag: approximately 40 linear feet 
+• Hog Rings per bag 15 
+DESCRIPTION PART NO. BAG QTY. WEIGHT 
+PER PKG. NOTES 
+8’ Safety Top Cap 20430_ 5 11.00 
+Safety Top Cap - Lite / High Density Polyethelene (HDPE) 
+Note: Only sold in full bags, 10 cap sections per bag 
+• Cap sections are 8’ long, 4” high, 2-1/2” wide 
+• Coverage per bag: approximately 80 linear feet 
+DESCRIPTION PART NO. BAG QTY. WEIGHT 
+PER PKG. NOTES 
+8’ Safety Top Cap - Yellow 009388 10 11.00 
+Zip Ties - Black 274A00 100 2.00 
+Corrugated Top Cap 
+DESCRIPTION PART NO. BLACK 
+PART NO. YELLOW 
+WEIGHT 
+PER EA. NOTES 
+100’ Corrugated — 002116 27.00 
+250’ Corrugated 911V00 204319 67.00 
+19” Ties — 953D00 3.00 
+All special and non-stock items will be shipped collect — F.O.B. FactorySPECIAL NOTE: KT or TT Selvage on 5’ high fabric or less is not recommended for Residential Applications 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+CL-25 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+9 Gauge (0.148”) GBW / 1.2 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 1 • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM0009 10.83 MM0099 8.25 MM0189 6.57 42” MM0019 12.64 MM0109 9.63 MM0199 7.67 4’ MM0029 14.44 MM0119 11.00 MM0209 8.76 5’ MM0039 18.05 MM0129 13.75 MM0219 10.95 6’ MM0049 21.66 MM0139 16.50 MM0229 13.14 7’ MM0059 25.27 MM0149 19.25 MM0239 15.33 8’ MM0069 28.88 MM0159 22.00 MM0249 17.52 10’ MM0079 36.10 MM0169 27.50 MM0259 21.90 12’ MM0089 43.32 MM0179 33.00 MM0269 26.28 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM0279 5.49 MM0369 4.25 MM0459 3.30 42” MM0289 6.41 MM0379 4.83 MM0469 3.85 4’ MM0299 7.32 MM0389 5.66 MM0479 4.40 5’ MM0309 9.15 MM0399 6.90 MM0489 5.50 6’ MM0319 10.98 MM0409 8.28 MM0499 6.60 7’ MM0329 12.81 MM0419 9.66 MM0509 7.70 8’ MM0339 14.64 MM0429 11.04 MM0519 8.80 10’ MM0349 18.30 MM0439 13.80 MM0529 11.00 12’ MM0359 21.96 MM0449 16.99 MM0539 13.20 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle
+CL-26 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+11 Gauge (0.120”) GBW / 1.2 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 1 • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM1089 8.20 MM1179 6.30 MM1269 4.51 42” MM1099 9.56 MM1189 7.35 MM1279 5.26 4’ MM1109 10.93 MM1199 8.40 MM1289 6.01 5’ MM1119 13.66 MM1209 10.50 MM1299 7.52 6’ MM1129 16.39 MM1219 12.60 MM1309 9.02 7’ MM1139 19.13 MM1229 14.70 MM1319 10.52 8’ MM1149 21.86 MM1239 16.80 MM1329 12.02 10’ MM1159 27.32 MM1249 21.00 MM1339 15.03 12’ MM1169 32.79 MM1259 25.20 MM1349 18.04 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM1359 3.78 MM1449 2.84 MM1539 2.27 42” MM1369 4.41 MM1459 3.31 MM1549 2.65 4’ MM1379 5.04 MM1469 3.78 MM1559 3.02 5’ MM1389 6.30 MM1479 4.73 MM1569 3.78 6’ MM1399 7.56 MM1489 5.67 MM1579 4.54 7’ MM1409 8.82 MM1499 6.62 MM1589 5.29 8’ MM1419 10.08 MM1509 7.56 MM1599 6.05 10’ MM1429 12.60 MM1519 9.45 MM1609 7.56 12’ MM1439 15.12 MM1529 11.34 MM1619 9.07 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-27 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+9 Gauge (0.148”) GBW / 2.0 oz./ft.2 Zinc Coating 
+Meets ASTM A 392, Class 2 • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM0549 11.52 MM0639 8.76 MM0729 6.96 42” MM0559 13.44 MM0649 10.22 MM0739 8.12 4’ MM0569 15.36 MM0659 11.68 MM0749 9.28 5’ MM0579 19.20 MM0669 14.60 MM0759 11.60 6’ MM0589 23.04 MM0679 17.52 MM0769 13.92 7’ MM0599 26.88 MM0689 20.44 MM0779 16.24 8’ MM0609 30.72 MM0699 23.36 MM0789 18.56 10’ MM0619 38.40 MM0709 29.20 MM0799 23.20 12’ MM0629 46.08 MM0719 35.04 MM0809 27.84 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM0819 5.85 MM0909 4.38 MM0999 3.51 42” MM0829 6.83 MM0919 5.11 MM1009 4.10 4’ MM0839 7.80 MM0929 5.84 MM1019 4.68 5’ MM0849 9.75 MM0939 7.30 MM1029 5.85 6’ MM0859 11.70 MM0949 8.76 MM1039 7.02 7’ MM0869 13.65 MM0959 10.22 MM1049 8.19 8’ MM0879 15.60 MM0969 11.68 MM1059 9.36 10’ MM0889 19.50 MM0979 14.60 MM1069 11.70 12’ MM0899 23.40 MM0989 17.52 MM1079 14.04 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle
+CL-28 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+11 Gauge (0.120”) Aluminized / .35 oz./ft.² Aluminized Coating 
+Meets ASTM A 491 • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM2169 8.14 MM2259 6.18 MM2349 4.90 42” MM2179 9.49 MM2269 7.21 MM2359 5.72 4’ MM2189 10.85 MM2279 8.24 MM2369 6.53 5’ MM2199 13.56 MM2289 10.30 MM2379 8.17 6’ MM2209 16.28 MM2299 12.36 MM2389 9.80 7’ MM2219 18.99 MM2309 14.41 MM2399 11.43 8’ MM2229 21.70 MM2319 16.47 MM2409 13.07 10’ MM2239 27.13 MM2329 20.59 MM2419 16.34 12’ MM2249 32.55 MM2339 24.71 MM2429 19.60 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM2439 4.13 MM2529 3.12 MM2619 2.19 42” MM2449 4.82 MM2539 3.64 MM2629 2.55 4’ MM2459 5.50 MM2549 4.16 MM2639 2.92 5’ MM2469 6.88 MM2559 5.20 MM2649 3.65 6’ MM2479 8.26 MM2569 6.24 MM2659 4.38 7’ MM2489 9.63 MM2579 7.28 MM2669 5.11 8’ MM2499 11.01 MM2589 8.32 MM2679 5.84 10’ MM2509 13.76 MM2599 10.40 MM2689 7.30 12’ MM2519 16.51 MM2609 12.48 MM2699 8.76 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-29 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+9 Gauge (0.148”) Aluminized / .40 oz./ft.² Aluminized Coating 
+Meets ASTM A 491 • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM1629 12.65 MM1719 9.62 MM1809 7.63 42” MM1639 14.76 MM1729 11.23 MM1819 8.91 4’ MM1649 16.87 MM1739 12.83 MM1829 10.18 5’ MM1659 21.09 MM1749 16.04 MM1839 12.72 6’ MM1669 25.30 MM1759 19.25 MM1849 15.27 7’ MM1679 29.52 MM1769 22.45 MM1859 17.81 8’ MM1689 33.74 MM1779 25.66 MM1869 20.35 10’ MM1699 42.17 MM1789 32.08 MM1879 25.44 12’ MM1709 50.61 MM1799 38.49 MM1889 30.53 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM1899 6.50 MM1989 4.86 MM2079 3.86 42” MM1909 7.59 MM1999 5.67 MM2089 4.50 4’ MM1919 8.67 MM2009 6.48 MM2099 5.15 5’ MM1929 10.84 MM2019 8.10 MM2109 6.44 6’ MM1939 13.01 MM2029 9.72 MM2119 7.72 7’ MM1949 15.18 MM2039 11.34 MM2129 9.01 8’ MM1959 17.34 MM2049 12.96 MM2139 10.30 10’ MM1969 21.68 MM2059 16.20 MM2149 12.87 12’ MM1979 26.02 MM2069 19.44 MM2159 15.44 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle
+CL-30 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+11 Gauge Core / 8 Gauge Finish Spectra® (Extruded Bonded PVC) 
+Meets ASTM A 668, Class 2a • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+5/8” 3/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 
+3’ MM353_ 5.38 MM364_ 4.53 
+42” MM354_ 6.28 MM365_ 5.28 
+4’ MM355_ 7.17 MM366_ 6.04 
+5’ MM356_ 8.97 MM367_ 7.55 
+6’ MM357_ 10.76 MM368_ 9.06 
+7’ MM358_ 12.55 MM369_ 10.56 
+8’ MM359_ 14.35 MM370_ 12.07 
+9’ MM360_ 16.14 MM371_ 13.58 
+10’ MM361_ 17.93 MM372_ 15.09 
+11’ MM362_ 19.73 MM373_ 16.60 
+12’ MM363_ 21.52 MM374_ 18.11 
+1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 
+3’ MM375_ 3.47 MM386_ 2.92 
+42” MM376_ 4.05 MM387_ 3.41 
+4’ MM377_ 4.63 MM388_ 3.90 
+5’ MM378_ 5.78 MM389_ 4.87 
+6’ MM379_ 6.94 MM390_ 5.84 
+7’ MM380_ 8.10 MM391_ 6.82 
+8’ MM381_ 9.25 MM392_ 7.79 
+9’ MM382_ 10.41 MM393_ 8.77 
+10’ MM383_ 11.57 MM394_ 9.74 
+11’ MM384_ 12.72 MM395_ 10.71 
+12’ MM385_ 13.88 MM396_ 11.69 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+Add the following number to the part no. for desired color: 
+1-Forest Green 2-Midnight Black 3-Sierra Brown
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-31 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+9 Gauge Core / 6 Gauge Finish Spectra® (Extruded Bonded PVC) Meets ASTM F 668, Class 2a • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM331_ 5.52 MM342_ 4.25 42” MM332_ 6.44 MM343_ 4.96 4’ MM333_ 7.36 MM344_ 5.67 5’ MM334_ 9.20 MM345_ 7.09 6’ MM335_ 11.04 MM346_ 8.51 7’ MM336_ 12.88 MM347_ 9.92 8’ MM337_ 14.72 MM348_ 11.34 9’ MM338_ 16.56 MM349_ 12.76 10’ MM339_ 18.40 MM350_ 14.18 11’ MM340_ 20.24 MM351_ 15.59 12’ MM341_ 22.08 MM352_ 17.01 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+Add the following number to the part no. for desired color: 
+1-Forest Green 2-Midnight Black 3-Sierra Brown
+CL-32 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+13 Gauge Core / 9 Gauge Finish Spectra® (Extruded PVC) 
+Class 1 • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM198_ 5.91 MM209_ 4.50 MM221_ 3.48 42” MM199_ 6.90 MM210_ 5.25 MM222_ 4.06 4’ MM200_ 7.88 MM211_ 6.00 MM223_ 4.64 5’ MM201_ 9.85 MM213_ 7.50 MM224_ 5.80 6’ MM202_ 11.82 MM214_ 9.00 MM225_ 6.96 7’ MM203_ 13.79 MM215_ 10.50 MM226_ 8.12 8’ MM204_ 15.76 MM216_ 12.00 MM227_ 9.28 9’ MM205_ 17.73 MM217_ 13.50 MM228_ 10.44 10’ MM206_ 19.70 MM218_ 15.00 MM229_ 11.60 11’ MM207_ 21.67 MM219_ 16.50 MM230_ 12.76 12’ MM208_ 23.64 MM220_ 18.00 MM231_ 13.92 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM232_ 3.00 MM243_ 2.10 MM254_ 1.80 42” MM233_ 3.50 MM244_ 2.63 MM255_ 2.10 4’ MM234_ 4.00 MM245_ 2.80 MM256_ 2.40 5’ MM235_ 5.00 MM246_ 3.50 MM257_ 3.00 6’ MM236_ 6.00 MM247_ 4.20 MM258_ 3.60 7’ MM237_ 7.00 MM248_ 4.90 MM259_ 4.20 8’ MM238_ 8.00 MM249_ 5.60 MM260_ 4.80 9’ MM239_ 9.00 MM250_ 6.75 MM261_ 5.40 10’ MM240_ 10.00 MM251_ 7.00 MM262_ 6.00 11’ MM241_ 11.00 MM252_ 8.25 MM263_ 6.60 12’ MM242_ 12.00 MM253_ 8.40 MM264_ 7.20 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+Add the following number to the part no. for desired color: 
+1-Forest Green 2-Midnight Black 3-Sierra Brown
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-33 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+14 Gauge Core / 11 Gauge Finish Spectra® (Extruded PVC) 
+Class 1 • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM265_ 4.56 MM276_ 2.94 MM287_ 2.76 42” MM266_ 5.32 MM277_ 3.43 MM288_ 3.22 4’ MM267_ 6.08 MM278_ 3.92 MM289_ 3.68 5’ MM268_ 7.60 MM279_ 4.90 MM290_ 4.61 6’ MM269_ 9.11 MM280_ 5.88 MM291_ 5.53 7’ MM270_ 10.63 MM281_ 6.86 MM292_ 6.45 8’ MM271_ 12.15 MM282_ 7.84 MM293_ 7.37 9’ MM272_ 13.67 MM283_ 8.82 MM294_ 8.29 10’ MM273_ 15.19 MM284_ 9.80 MM295_ 9.21 11’ MM274_ 16.71 MM285_ 10.78 MM296_ 10.13 12’ MM275_ 18.23 MM286_ 11.76 MM297_ 11.05 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM298_ 2.32 MM309_ 1.73 MM320_ 1.38 42” MM299_ 2.71 MM310_ 2.02 MM321_ 1.61 4’ MM300_ 3.10 MM311_ 2.31 MM322_ 1.84 5’ MM301_ 3.87 MM312_ 2.89 MM323_ 2.30 6’ MM302_ 4.65 MM313_ 3.47 MM324_ 2.76 7’ MM303_ 5.42 MM314_ 4.04 MM325_ 3.22 8’ MM304_ 6.19 MM315_ 4.62 MM326_ 3.68 9’ MM305_ 6.97 MM316_ 5.20 MM327_ 4.15 10’ MM306_ 7.74 MM317_ 5.78 MM328_ 4.61 11’ MM307_ 8.52 MM318_ 6.35 MM329_ 5.07 12’ MM308_ 9.29 MM319_ 6.93 MM330_ 5.53 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+Add the following number to the part no. for desired color: 
+1-Forest Green 2-Midnight Black 3-Sierra Brown
+CL-34 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+11 Gauge Core / 8 Gauge Finish Spectra® (Extruded PVC) 
+Class 1 • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM132_ 8.94 MM143_ 6.79 MM154_ 6.03 42” MM133_ 10.43 MM144_ 7.92 MM155_ 7.04 4’ MM134_ 11.92 MM145_ 9.06 MM156_ 8.04 5’ MM135_ 14.90 MM146_ 11.32 MM157_ 10.05 6’ MM136_ 17.88 MM147_ 13.58 MM158_ 12.06 7’ MM137_ 20.85 MM148_ 15.85 MM159_ 14.07 8’ MM138_ 23.83 MM149_ 18.11 MM160_ 16.08 9’ MM139_ 26.81 MM150_ 20.37 MM161_ 18.09 10’ MM140_ 29.79 MM151_ 22.64 MM162_ 20.10 11’ MM141_ 32.77 MM152_ 24.90 MM163_ 22.11 12’ MM142_ 35.75 MM153_ 27.17 MM164_ 24.12 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM165_ 4.53 MM176_ 3.47 MM187_ 2.92 42” MM166_ 5.28 MM177_ 4.05 MM188_ 3.41 4’ MM167_ 6.04 MM178_ 4.63 MM189_ 3.90 5’ MM168_ 7.55 MM179_ 5.78 MM190_ 4.87 6’ MM169_ 9.06 MM180_ 6.94 MM191_ 5.84 7’ MM170_ 10.56 MM181_ 8.10 MM192_ 6.82 8’ MM171_ 12.07 MM182_ 9.25 MM193_ 7.79 9’ MM172_ 13.58 MM183_ 10.41 MM194_ 8.77 10’ MM173_ 15.09 MM184_ 11.57 MM195_ 9.74 11’ MM174_ 16.60 MM185_ 12.72 MM196_ 10.71 12’ MM175_ 18.11 MM186_ 13.88 MM197_ 11.69 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+Add the following number to the part no. for desired color: 
+1-Forest Green 2-Midnight Black 3-Sierra Brown
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-35 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+10 Gauge Core / 9 Gauge Finish Permafused (Fused and Adhered) 
+Meets ASTM F 668, Class 2b • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM066_ 9.37 MM077_ 7.71 MM088_ 6.17 42” MM067_ 10.93 MM078_ 9.00 MM089_ 7.20 4’ MM068_ 12.49 MM079_ 10.28 MM090_ 8.23 5’ MM069_ 15.62 MM080_ 12.85 MM091_ 10.29 6’ MM070_ 18.74 MM081_ 15.42 MM092_ 12.35 7’ MM071_ 21.86 MM082_ 17.99 MM093_ 14.41 8’ MM072_ 24.98 MM083_ 20.56 MM094_ 16.46 9’ MM073_ 28.11 MM084_ 23.13 MM095_ 18.52 10’ MM074_ 31.23 MM085_ 25.70 MM096_ 20.58 11’ MM075_ 34.35 MM086_ 28.27 MM097_ 22.64 12’ MM076_ 37.48 MM087_ 30.84 MM098_ 24.70 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM099_ 5.17 MM110_ 3.96 MM121_ 3.54 42” MM100_ 6.04 MM111_ 4.62 MM122_ 4.13 4’ MM101_ 6.90 MM112_ 5.28 MM123_ 4.72 5’ MM102_ 8.62 MM113_ 6.60 MM124_ 5.90 6’ MM103_ 10.35 MM114_ 7.92 MM125_ 7.08 7’ MM104_ 12.07 MM115_ 9.24 MM126_ 8.26 8’ MM105_ 13.80 MM116_ 10.56 MM127_ 9.44 9’ MM106_ 15.52 MM117_ 11.88 MM128_ 10.62 10’ MM107_ 17.25 MM118_ 13.20 MM129_ 11.80 11’ MM108_ 18.97 MM119_ 14.52 MM130_ 12.98 12’ MM109_ 20.70 MM120_ 15.84 MM131_ 14.16 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+Add the following number to the part no. for desired color: 
+1-Forest Green 2-Midnight Black 3-Sierra Brown
+CL-36 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Fabric 
+High Security and Mini Mesh 
+9 Gauge Core / 8 Gauge Finish Permafused (Fused and Adhered) 
+Meets ASTM F 668, Class 2b • Feet Per Roll: 25 (50 ft for 1-1/4”) 
+3/8” 1/2” 5/8” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM000_ 11.91 MM011_ 9.06 MM022_ 7.17 42” MM001_ 13.89 MM012_ 10.56 MM023_ 8.37 4’ MM002_ 15.88 MM013_ 12.07 MM024_ 9.56 5’ MM003_ 19.85 MM014_ 15.09 MM025_ 11.96 6’ MM004_ 23.81 MM015_ 18.11 MM026_ 14.28 7’ MM005_ 27.78 MM016_ 21.13 MM027_ 16.74 8’ MM006_ 31.75 MM017_ 24.15 MM028_ 19.13 9’ MM007_ 35.72 MM018_ 27.17 MM029_ 21.52 10’ MM008_ 39.69 MM019_ 30.18 MM030_ 23.91 11’ MM009_ 43.66 MM020_ 33.20 MM031_ 26.30 12’ MM010_ 47.63 MM021_ 36.22 MM032_ 28.69 
+3/4” 1” 1-1/4” 
+HEIGHT KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. KK PART NO. WEIGHT PER FT. 3’ MM033_ 6.03 MM044_ 4.53 MM055_ 3.62 42” MM034_ 7.03 MM045_ 5.28 MM056_ 4.22 4’ MM035_ 8.04 MM046_ 6.04 MM057_ 4.82 5’ MM036_ 10.05 MM047_ 7.55 MM058_ 6.03 6’ MM037_ 12.05 MM048_ 9.06 MM059_ 7.23 7’ MM038_ 14.06 MM049_ 10.56 MM060_ 8.44 8’ MM039_ 16.07 MM050_ 12.07 MM061_ 9.64 9’ MM040_ 18.08 MM051_ 13.58 MM062_ 10.85 10’ MM041_ 20.09 MM052_ 15.09 MM063_ 12.05 11’ MM042_ 22.10 MM053_ 16.60 MM064_ 13.26 12’ MM043_ 24.11 MM054_ 18.11 MM065_ 14.46 
+Extra charge for broken rolls. 
+Setup charges may apply for quantities less than 300’ for non-stock items. Please inquire at your local branch. 
+SELVAGE ABBREVIATIONS: 
+KK - Knuckle-Knuckle 
+Add the following number to the part no. for desired color: 
+1-Forest Green 2-Midnight Black 3-Sierra Brown
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-37 
+Chain Link - Pipe and Tube 
+Pipe and Tube make up the framework for the Chain Link fence  system. ASTM specifi cations, wall thickness, and outside diameter  (O.D.) sizes determine a framework’s strength. Pipe and tube can be  galvanized or color coated.  
+Diff erent manufacturing processes: 
+• Hot-Dip 
+• Pre-Galv 
+• Flo-Coat 
+• Spectra Polyester (color) 
+• Heavy Mil (color) 
+Hot Dip 
+Hot-Dip galvanized pipe is formed before being galvanized and coated with  chromate inside and out for protection against corrosion and white rust.  Meets or exceeds ASTM F 1083 and ASTM F 1043. 
+Pre-Galv 
+Pre-Galvanized pipe is made from hot-dip galvanized fl at roll that is then  formed and welded. It is treated with Conversion Coating inhibiting white rust  and with a clear exterior seal coating. 
+Pre-Galv meets or exceeds ASTM F 1043 – 6 Standard Specifi cation for  Strength. 
+Pre-Galv also meets or exceeds ASTM F 1043 – 10 Type B, 0.9oz Zinc Coating. 
+Flo-Coat 
+Flo-Coat Galvanized is high yield, high tensile cold formed steel that is  molded and welded and then given a uniform hot-dip zinc coating. On top of  the hot-dip coating, there is added fi rst a Conversion Coating and above that,  a Clear Organic Coating. 
+Flo-Coat meets or exceeds ASTM F 1043, Group IC. 
+Spectra Polyester (color) 
+Spectra Polyester has an 11 stage pre-treatment and coating process. It is  corrosion resistant and UV resistant. 
+Spectra Polyester meets or exceeds ASTM F 668 and ASTM F 1043 3-5 Mils. 
+Heavy Mil (color)  
+Heavy Mil is coated in Poly Vinyl Chloride powder and has an 8 stage  pre-treatment and coating process. It is corrosion resistant and UV resistant.  Heavy Mil pipe meets or exceeds ASTM F 668 and F 1043 Type A 12-15 Mils.  Heavy Mil Domestic Schedule 40 and Heavy Mil Flo Coat and Pre-Galv are  both USA Certifi ed.
+CL-38 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+8-5/8” 
+6-5/8” 
+ Residential Framework  Top Rail: 1-3/8” or 1-5/8”  Line Post: 1-5/8”, 1-7/8”  Term Post: 1-7/8”, 2-3/8”  Gate Post: 1-7/8, 2-3/8” 
+ Commercial Framework  Top Rail: 1-3/8” or 1-5/8” 
+Chain Link - Pipe and Tube 
+Residential Wall Thickness Gauge Dura-Lite 18 Gauge .047 18 Dura-Lite 17 Gauge .055 17 
+Dura-Tube 16 Gauge .065 16 RQ 15 Residential Quality .072 15 
+Commercial O.D. Wall Thickness Gauge 1-3/8” .080 14 
+1-5/8” .085 14 
+ Line Post: 1-7/8”, 2-3/8”  Term Post: 2-3/8”, 2-7/8”  Gate Post: 2-3/8”, 2-7/8” 
+ Industrial Framework  Top Rail: 1-5/8” 
+CQ 20 
+Commercial Quality 
+1-7/8” .090 13 2-3/8” .095 13 2-7/8” .110 12 
+NOTE: The diameters listed on this page for top  
+4-1/2” 
+ Line Post: 1-7/8”, 2-3/8”, 2-7/8”, 4”  Term Post: 2-3/8”, 2-7/8”, 4” 
+ Gate Post: 2-3/8”, 2-7/8”, 4”, 6-5/8”, 8-5/8” 
+rail and posts are meant to be suggestions for  framework sizing.
+Industrial O.D. Wall Thickness Gauge 
+4” 
+1-5/8” .111 12 
+3-1/2” 
+2-7/8” 
+2-3/8” 
+1-7/8” 
+1-5/8” 
+1-3/8” 
+DQ 40 
+Deluxe Quality 
+Full Weight - Sch. 40 1.8 oz. 
+Full Weight - Sch. 40 2.0 oz. 
+1-7/8” .120 11 2-3/8” .130 10 2-7/8” .160 9 
+4” .160 8 1-5/8” .140 9-1/2 1-7/8” .145 9 2-3/8” .154 8 2-7/8” .203 6 
+4” .226 5 6-5/8” .280 1 8-5/8” .322 1/0 1-5/8” .140 9-1/2 1-7/8” .145 9 2-3/8” .154 8 2-7/8” .203 6 4” .226 5 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-39 
+Chain Link - Pipe and Tube Dura-Lite 18 Gauge • Galvanized TubingDura-Lite 18 Gauge / Nominal wall thickness .047 
+DESCRIPTION21’PART NO.  22’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT 
+PER FT. NOTES 
+1-3/8” O.D. – PE 030188 030284 030126 91 .65 1-3/8” O.D. – SE 030104 030291 030123 91 .65 1-5/8” O.D. – PE 030108 030109 030110 61 .81 1-5/8” O.D. – SE 030180 030117 030181 61 .81 1-7/8” O.D. 030455 — 030457 61 .94 2-3/8” O.D. 030184 — 030185 37 1.18 
+1-3/8” O.D. Dura-Lite 18 Gauge / Nominal wall thickness .047 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 10' 6” – SE 030099 91 6.82 
+1-5/8” O.D. Dura-Lite Posts 18 Gauge / Nominal wall thickness .047 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 030190 61 4.04 5’ 6” 030191 61 4.45 6’ 030192 61 4.85 6’ 6” 030193 61 5.27 7’ 030194 61 5.66 7’ 6” 030195 61 6.08 8’ 030196 61 6.48 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-40 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+Dura-Lite 18 Gauge • Galvanized Tubing
+1-7/8” O.D. Dura-Lite Posts 18 Gauge / Nominal wall thickness .047 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 
+5’ 030461 61 4.69 
+5’ 6” 030462 61 5.16 
+6’ 030463 61 5.63 
+7’ 030465 61 6.56 
+7’ 6” 030466 61 7.03 
+8’ 030467 61 7.50 
+2-3/8” O.D. Dura-Lite Posts 18 Gauge / Nominal wall thickness .047 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 
+5’ 030821 37 5.90 
+5’ 6” 030822 37 6.50 
+6’ 030823 37 7.10 
+6’ 6” 030824 37 7.67 
+7’ 030825 37 8.26 
+7’ 6” 030826 37 8.85 
+8’ 030827 37 9.45 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-41 
+Chain Link - Pipe and Tube Dura-Lite 17 Gauge • Galvanized TubingDura-Lite 17 Gauge / Nominal wall thickness .055 
+DESCRIPTION21’PART NO.  22’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT 
+PER FT. NOTES 
+1-3/8” O.D. – PE 030101 029003 030125 91 .74 1-3/8” O.D. – SE 030105 029010 029012 91 .74 1-5/8” O.D. – PE 030111 030112 030113 61 .95 1-5/8” O.D. – SE 030115 030116 029026 61 .95 1-7/8” O.D. 030121 030122 030124 61 1.09 
+2-3/8” O.D. 030131 — 030134 37 1.37 
+1-3/8” O.D. Dura-Lite 17 Gauge / Nominal wall thickness .055 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 10’ 6” – SE 030007 91 7.76 
+1-5/8” O.D. Dura-Lite Posts 17 Gauge / Nominal wall thickness .055 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 4’ 6” 030150 61 4.26 5’ 030151 61 4.75 5’ 6” 030152 61 5.23 6’ 030153 61 5.70 6’ 6” 030154 61 6.18 7’ 030155 61 6.63 7’ 6” 030156 61 7.13 8’ 030157 61 7.60 
+1-7/8” O.D. Dura-Lite Posts 17 Gauge / Nominal wall thickness .055 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 030161 61 5.45 5’ 6” 030162 61 6.00 6’ 030163 61 6.54 6’ 6” 030164 61 7.09 7’ 030165 61 7.63 7’ 6” 030166 61 8.18 8’ 030167 61 8.72 8’ 6” 030168 61 9.27 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-42 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+Dura-Lite 17 Gauge • Galvanized Tubing
+2-3/8” O.D. Dura-Lite Posts 17 Gauge / Nominal wall thickness .055 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 
+5’ 030171 37 6.85 
+5’ 6” 030172 37 7.54 
+6’ 030173 37 8.22 
+6’ 6” 030174 37 8.91 
+7’ 030175 37 9.59 
+7’ 6” 030176 37 10.28 
+8’ 030177 37 10.96 
+8’ 6” 030178 37 11.65 
+9’ 030186 37 12.33 
+10’ 030179 37 13.70 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-43 
+Chain Link - Pipe and Tube Dura-Tube 16 Gauge • Galvanized TubingDura-Tube 16 Gauge / Nominal wall thickness .065 
+DESCRIPTION21’PART NO.  22’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT 
+PER FT. NOTES 
+1-3/8” O.D. – PE 030501 — 030502 91 .87 1-3/8” O.D. – SE 030505 — 030506 91 .87 1-5/8” O.D. – PE 030510 — 030512 61 1.11 1-5/8” O.D. – SE 030515 030516 030388 61 1.11 1-7/8” O.D. 030520 030521 030522 61 1.28 2-3/8” O.D. 030525 — 030527 37 1.60 
+1-5/8” O.D. Dura-Tube Posts 16 Gauge / Nominal wall thickness .065 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 4’ 6” 030540 61 5.00 5’ 030541 61 5.55 5’ 6” 030542 61 6.11 6’ 030543 61 6.66 6’ 6” 030544 61 7.22 7’ 030545 61 7.77 7’ 6” 030546 61 8.33 8’ 030547 61 8.88 
+1-7/8” O.D. Dura-Tube Posts 16 Gauge / Nominal wall thickness .065 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 030551 61 6.40 5’ 6” 030552 61 7.04 6’ 030553 61 7.68 6’ 6” 030554 61 8.32 7’ 030555 61 8.96 7’ 6” 030556 61 9.60 8’ 030557 61 10.24 8’ 6” 030558 61 10.88 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-44 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+Dura-Tube 16 Gauge • Galvanized Tubing
+2-3/8” O.D. Dura-Tube Posts 16 Gauge / Nominal wall thickness .065 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 
+5’ 030561 37 8.00 
+5’ 6” 030562 37 8.80 
+6’ 030563 37 9.60 
+6’ 6” 030564 37 10.40 
+7’ 030565 37 11.20 
+7’ 6” 030566 37 12.00 
+8’ 030567 37 12.80 
+8’ 6” 030568 37 13.60 
+9’ 030569 37 14.40 
+10’ 030570 37 16.00 
+11’ 030571 37 17.60 
+12’ 030572 37 19.20 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-45 
+Chain Link - Pipe and Tube RQ 15 • Galvanized Pipe
+RQ 15 
+DESCRIPTION21’PART NO.  22’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT PER FT. 
+NOMINAL 
+WALL THICKNESS NOTES 
+1-3/8” O.D. – PE 030901 — 030904 91 .95 .072 1-3/8” O.D. – SE 030902 — 030903 91 .95 .072 1-5/8” O.D. – PE 030905 — 030907 61 1.22 .072 1-5/8” O.D. – SE 030916 — 030844 61 1.22 .072 1-7/8” O.D. 030909 — 030911 61 1.41 .072 2-3/8” O.D. 030913 — 030915 37 1.88 .076 
+1-5/8” O.D. RQ 15 Posts / Nominal wall thickness .072 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 030906 61 6.10 5’ 6” 030908 61 6.71 6’ 030910 61 7.32 6’ 6” 030912 61 7.93 7’ 030925 61 8.50 7’ 6” 030918 61 9.15 8’ 030914 61 9.76 9’ 029063 61 10.98 10’ 029064 61 12.20 
+1-7/8” O.D. RQ 15 Posts / Nominal wall thickness .072 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 030919 61 7.05 5’ 6” 030920 61 7.76 6’ 030921 61 8.46 6’ 6” 030922 61 9.17 7’ 030923 61 9.87 8’ 030927 61 11.28 9’ 030928 61 12.69 10’ 030929 61 14.10 11’ 030859 61 15.51 12’ 030847 61 16.92 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-46 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+2-3/8” O.D. RQ 15 Posts / Nominal wall thickness .076 
+Chain Link - Pipe and Tube RQ 15 • Galvanized Pipe
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 030930 37 9.40 5’ 6” 030931 37 10.34 6’ 030932 37 11.28 6’ 6” 030933 37 12.22 7’ 030934 37 13.16 7’ 6” 030936 37 14.10 8’ 030937 37 15.04 9’ 030939 37 16.92 10’ 030940 37 18.80 10’ 6” 030941 37 19.74 11’ 030853 37 20.68 12’ 030942 37 22.56 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-47 
+Chain Link - Pipe and Tube CQ 20 • Galvanized Pipe
+CQ 20 
+DESCRIPTION18’PART NO.  21’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT PER FT. 
+NOMINAL 
+WALL THICKNESS NOTES 
+1-3/8” O.D. – PE 032564 032601 032602 91 1.06 .080 1-3/8” O.D. – SE 032565 032604 032566 91 1.06 .080 1-5/8” O.D. – PE 032567 032605 032607 61 1.46 .085 1-5/8” O.D. – SE 032568 032608 032606 61 1.46 .085 1-7/8” O.D. 032609 032610 032612 61 1.75 .090 2-3/8” O.D. 032614 032615 032617 37 2.29 .095 2-7/8” O.D. 032619 032620 032622 19 3.25 .110 
+1-5/8” O.D. CQ 20 Posts / Nominal wall thickness .085 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 4’ 6” 032746 61 6.57 5’ 032747 61 7.30 5’ 6” 032631 61 8.06 6’ 032632 61 8.76 6’ 6” 032633 61 9.49 7’ 032634 61 10.22 7’ 6” 032635 61 10.95 8’ 032636 61 11.68 9’ 032638 61 13.14 10’ 032640 61 14.60 
+1-7/8” O.D. CQ 20 Posts / Nominal wall thickness .090 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032576 61 8.75 5’ 6” 032651 61 9.63 6’ 032652 61 10.50 6’ 6” 032642 61 11.38 7’ 032654 61 12.25 7’ 6” 032655 61 13.13 8’ 032656 61 14.00 9’ 032658 61 15.75 10’ 032659 61 17.50 10’ 6” 032664 61 18.38 11’ 032660 61 19.25 12’ 032662 61 21.00 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-48 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+2-3/8” O.D. CQ 20 Posts / Nominal wall thickness .095 
+Chain Link - Pipe and Tube CQ 20 • Galvanized Pipe
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032670 37 11.50 5’ 6” 032671 37 12.65 6’ 032672 37 13.80 6’ 6” 032661 37 14.95 7’ 032674 37 16.10 7’ 6” 032673 37 17.25 8’ 032676 37 18.40 9’ 032678 37 20.70 10’ 032679 37 23.00 10’ 6” 032680 37 24.15 11’ 032681 37 25.30 12’ 032683 37 27.60 13’ 032685 37 29.90 
+2-7/8” O.D. CQ 20 Posts / Nominal wall thickness .110 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 032701 19 19.50 7’ 032684 19 22.75 8’ 032686 19 26.00 9’ 032687 19 29.25 10’ 032688 19 32.50 10’ 6” 032689 19 34.13 11’ 032692 19 35.75 12’ 032694 19 39.00 12’ 6” 032697 19 40.63 13’ 032695 19 42.25 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-49 
+Chain Link - Pipe and Tube Structural (Schedule 20) • Galvanized PipeStructural (Schedule 20) 
+DESCRIPTION18’PART NO.  21’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT PER FT. 
+NOMINAL 
+WALL THICKNESS NOTES 
+1-3/8” O.D. – PE 031750 031751 031753 91 1.35 .104 1-5/8” O.D. – PE 031901 031902 031904 61 1.73 .104 1-7/8” O.D. 032101 032102 032104 61 2.21 .116 2-3/8” O.D. 032300 032302 032304 37 2.80 .116 2-7/8” O.D. 032500 032502 032504 19 3.75 .128 
+1-5/8” O.D. Structural Posts / Nominal wall thickness .104 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 6” 031952 61 9.52 6’ 031953 61 10.37 6’ 6” 031954 61 11.25 7’ 031955 61 12.10 7’ 6” 031956 61 12.98 8’ 031957 61 13.83 9’ 031959 61 15.56 10’ 031960 61 17.29 
+1-7/8” O.D. Structural Posts / Nominal wall thickness .116 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032151 61 11.01 5’ 6” 032152 61 12.11 6’ 032153 61 13.21 6’ 6” 032154 61 14.31 7’ 032155 61 15.41 7’ 6” 032156 61 16.58 8’ 032157 61 17.61 8’ 8” 032158 61 18.79 9’ 032159 61 19.81 10’ 032160 61 22.01 11’ 032166 61 24.31 12’ 032165 61 26.52 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-50 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+Structural (Schedule 20) • Galvanized Pipe
+2-3/8” O.D. Structural Posts / Nominal wall thickness .116 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 
+5’ 032351 37 14.00 
+5’ 6” 032352 37 15.40 
+6’ 032353 37 16.67 
+6’ 6” 032354 37 18.20 
+7’ 032355 37 19.45 
+7’ 6” 032356 37 20.85 
+8’ 032357 37 22.23 
+8’ 8” 032358 37 23.80 
+9’ 032359 37 25.01 
+10’ 032360 37 27.79 
+11’ 032172 37 30.80 
+12’ 032364 37 33.60 
+2-7/8” O.D. Structural Posts / Nominal wall thickness .128 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 
+6’ 032553 19 22.50 
+7’ 032555 19 26.25 
+8’ 032557 19 30.00 
+9’ 032559 19 33.75 
+10’ 032560 19 37.50 
+11’ 032561 19 41.25 
+12’ 032562 19 45.00 
+13’ 032178 19 48.75 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-51 
+Chain Link - Pipe and Tube HQ 30 • Galvanized Pipe
+HQ 30 / Meets ASTM F 1043 Group IV 
+DESCRIPTION18’PART NO.  21’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT PER FT. 
+NOMINAL 
+WALL THICKNESS NOTES 
+1-5/8” O.D. - PE 032800 032801 032802 61 1.59 .095 1-5/8” O.D. - SE 032803 032804 032805 61 1.59 .095 1-7/8” O.D. 032806 032807 032808 61 2.01 .105 2-3/8” O.D. 032809 032810 032811 37 2.78 .115 2-7/8” O.D. 032812 032813 032814 19 3.81 .130 4” O.D. 032815 032816 032817 19 5.78 .140 
+1-5/8” O.D. HQ 30 Posts / Meets ASTM F 1043 Group IV • Nominal wall thickness .095 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032818 61 7.95 
+5’ 6” 032819 61 8.75 
+6’ 032820 61 9.54 
+6’ 6” 032821 61 10.34 
+7’ 032822 61 11.13 
+7’ 6” 032823 61 11.93 
+8’ 032824 61 12.72 
+8’ 6” 032825 61 13.52 
+9’ 032826 61 14.31 
+10’ 032827 61 15.90 
+1-7/8” O.D. HQ 30 Posts / Meets ASTM F 1043 Group IV • Nominal wall thickness .105 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032828 61 10.05 
+5’ 6” 032829 61 11.06 
+6’ 032830 61 12.06 
+6’ 6” 032831 61 13.07 
+7’ 032832 61 14.07 
+7’ 6” 032833 61 15.08 
+8’ 032834 61 16.08 
+8’ 6” 032835 61 17.09 
+9’ 032836 61 18.09 
+10’ 032837 61 20.10 
+11’ 032838 61 22.11 
+12’ 032839 61 24.12 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-52 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+HQ 30 • Galvanized Pipe
+2-3/8” O.D. HQ 30 Posts / Meets ASTM F 1043 Group IV • Nominal wall thickness .115 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032840 37 13.90 
+5’ 6” 032841 37 15.29 
+6’ 032842 37 16.68 
+6’ 6” 032843 37 18.07 
+7’ 032844 37 19.46 
+7’ 6” 032845 37 20.85 
+8’ 032846 37 22.24 
+8’ 6” 032847 37 23.63 
+9’ 032848 37 25.02 
+10’ 032849 37 27.80 
+11’ 032850 37 30.58 
+12’ 032851 37 33.36 
+13’ 032852 37 36.14 
+2-7/8” O.D. HQ 30 Posts / Meets ASTM F 1043 Group IV • Nominal wall thickness .130 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032853 19 19.05 
+5’ 6” 032854 19 22.86 
+6’ 032855 19 24.77 
+6’ 6” 032856 19 26.67 
+7’ 032857 19 28.58 
+7’ 6” 032858 19 30.48 
+8’ 032859 19 32.39 
+8’ 6” 032860 19 34.29 
+9’ 032861 19 38.10 
+10’ 032862 19 40.01 
+11’ 032863 19 41.91 
+12’ 032864 19 45.72 
+13’ 032865 19 49.53 
+15’ 032866 19 57.15 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-53 
+Chain Link - Pipe and Tube 
+HQ 30 • Galvanized Pipe
+4” O.D. HQ 30 Posts / Meets ASTM F 1043 Group IV • Nominal wall thickness .140 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032867 19 28.90 
+6’ 032868 19 34.68 
+7’ 032869 19 40.46 
+8’ 032870 19 46.24 
+8’ 6” 032871 19 49.13 
+9’ 032872 19 52.02 
+10’ 032873 19 57.80 
+11’ 032874 19 63.58 
+12’ 032875 19 69.36 
+13’ 032876 19 75.14 
+14’ 032877 19 80.92 
+15’ 032878 19 86.70 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-54 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+DQ 40 • Galvanized Pipe
+DQ 40 / Meets ASTM F 1043 Group IC 
+DESCRIPTION18’PART NO.  21’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT PER FT. 
+NOMINAL 
+WALL THICKNESS NOTES 
+1-3/8” O.D. – PE 032970 033002 032978 91 1.34 .104 1-5/8” O.D. – PE 033003 033005 033007 61 1.83 .111 1-5/8” O.D. – SE 032954 033004 032957 61 1.83 .111 1-7/8” O.D. 033009 033010 033012 61 2.28 .120 2-3/8” O.D. 033014 033015 033017 37 3.12 .130 2-7/8” O.D. 033019 033020 033022 19 4.64 .160 4” O.D. 032936 033024 033027 19 6.56 .160 
+1-5/8” O.D. DQ 40 Posts / Meets ASTM F 1043 Group IC • Nominal wall thickness .111 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032900 61 9.16 
+5’ 6” 033035 61 9.90 
+6’ 033032 61 11.10 
+6’ 6” 033033 61 11.90 
+7’ 033034 61 12.95 
+7’ 6” 033037 61 13.73 
+8’ 033036 61 14.80 
+9’ 033070 61 16.47 
+10’ 033039 61 18.50 
+1-7/8” O.D. DQ 40 Posts / Meets ASTM F 1043 Group IC • Nominal wall thickness .120 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032906 61 11.40 
+5’ 6” 033040 61 12.54 
+6’ 033043 61 13.50 
+7’ 033044 61 15.75 
+8’ 033046 61 18.00 
+8’ 8” 033047 61 19.13 
+9’ 033048 61 20.25 
+10’ 033049 61 22.50 
+11’ 033050 61 25.08 
+12’ 033093 61 27.36 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-55 
+Chain Link - Pipe and Tube 
+DQ 40 • Galvanized Pipe
+2-3/8” O.D. DQ 40 Posts / Meets ASTM F 1043 Group IC • Nominal wall thickness .130 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032912 37 15.55 
+5’ 6” 033094 37 17.11 
+6’ 033052 37 18.66 
+6’ 6” 033095 37 20.22 
+7’ 033054 37 21.77 
+8’ 033056 37 24.88 
+8’ 8” 033057 37 26.44 
+9’ 033058 37 27.99 
+10’ 033059 37 31.10 
+10’ 6” 033063 37 32.66 
+11’ 033061 37 34.21 
+12’ 033060 37 37.32 
+13’ 033062 37 40.43 
+14’ 033111 37 43.54 
+15’ 033064 37 46.65 
+2-7/8” O.D. DQ 40 Posts / Meets ASTM F 1043 Group IC • Nominal wall thickness .160 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 032913 19 23.20 
+6’ 033074 19 27.84 
+7’ 033075 19 32.48 
+8’ 033076 19 37.12 
+9’ 033078 19 41.76 
+10’ 033079 19 46.40 
+10’ 6” 033083 19 48.72 
+11’ 033080 19 51.04 
+12’ 033081 19 55.68 
+13’ 033082 19 60.32 
+14’ 033120 19 64.96 
+15’ 033084 19 69.60 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-56 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+DQ 40 • Galvanized Pipe
+4” O.D. DQ 40 Posts / Meets ASTM F 1043 Group IV • Nominal wall thickness .160 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 033065 19 33.00 
+6’ 033066 19 40.00 
+7’ 033067 19 46.00 
+8’ 033041 19 52.48 
+9’ 033028 19 59.04 
+10’ 033029 19 65.60 
+10’ 6” 033042 19 68.88 
+11’ 033030 19 72.16 
+12’ 033031 19 78.72 
+13’ 033068 19 85.28 
+14’ 033129 19 91.84 
+15’ 033069 19 98.40 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-57 
+Chain Link - Pipe and Tube Import Full Weight (Schedule 40) • 1.8 oz. Galvanized PipeImport Full Weight (Schedule 40) / 1.8 oz.  
+DESCRIPTION18’PART NO.  21’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT PER FT. 
+NOMINAL 
+WALL THICKNESS NOTES 
+1-3/8” O.D. – PE 033495 033500 033552 60 1.68 .133 1-5/8” O.D. – PE 033554 033551 033553 42 2.27 .140 1-7/8” O.D. 033711 033712 033714 36 2.72 .145 2-3/8” O.D. 033950 033952 033954 26 3.65 .154 2-7/8” O.D. 034280 034282 034284 18 5.79 .203 3-1/2” O.D. 034286 034287 034289 14 7.58 .216 4” O.D. 034469 034471 034473 12 9.11 .226 4-1/2” O.D. 034475 034477 034479 10 10.79 .237 6-5/8” O.D. 034503 034502 034504 5 18.97 .280 8-5/8” O.D. 034509 034511 034513 1 28.55 .322 
+1-5/8” O.D. Import Full Weight Posts (Schedule 40) / 1.8 oz. • Nominal wall thickness .140 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 033561 42 11.35 5’ 6” 033562 42 12.49 6’ 033563 42 13.62 6’ 6” 033564 42 14.75 7’ 033565 42 15.89 7’ 6” 033566 42 17.03 8’ 033567 42 18.16 9’ 033569 42 20.43 10’ 033570 42 22.70 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-58 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+Import Full Weight (Schedule 40) • 1.8 oz. Galvanized Pipe
+1-7/8” O.D. Import Full Weight Posts (Schedule 40) / 1.8 oz. • Nominal wall thickness .145 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 033801 36 13.60 
+5’ 6” 033802 36 14.96 
+6’ 033803 36 16.32 
+6’ 6” 033814 36 17.68 
+7’ 033805 36 19.04 
+8’ 033807 36 21.76 
+8’ 8” 033808 36 23.58 
+9’ 033809 36 24.48 
+10’ 033810 36 27.20 
+10’ 6” 033813 36 28.56 
+11’ 033818 36 24.97 
+12’ 033820 36 32.64 
+2-3/8” O.D. Import Full Weight Posts (Schedule 40) / 1.8 oz. • Nominal wall thickness .154 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 034101 26 18.25 
+5’ 6” 034102 26 20.08 
+6’ 034103 26 21.90 
+6’ 6” 034104 26 23.73 
+7’ 034105 26 25.55 
+8’ 034107 26 29.20 
+8’ 8” 034108 26 31.65 
+9’ 034109 26 32.85 
+9’ 8” 034111 26 35.28 
+10’ 034110 26 36.50 
+10’ 6” 034112 26 38.33 
+11’ 034114 26 40.15 
+12’ 034115 26 43.80 
+13’ 034117 26 47.45 
+14’ 034125 26 51.10 
+15’ 034119 26 54.75 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-59 
+Chain Link - Pipe and Tube 
+Import Full Weight (Schedule 40) • 1.8 oz. Galvanized Pipe2-7/8” O.D. Import Full Weight Posts (Schedule 40) / 1.8 oz. • Nominal wall thickness .203 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 034332 18 28.95 6’ 034333 18 34.74 7’ 034335 18 40.53 8’ 034337 18 46.32 9’ 034339 18 52.11 10’ 034340 18 57.90 10’ 6” 034342 18 60.80 11’ 034341 18 63.69 12’ 034345 18 69.48 13’ 034347 18 75.27 15’ 034349 18 86.85 
+4” O.D. Import Full Weight Posts (Schedule 40) / 1.8 oz. • Nominal wall thickness .226 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 034431 12 45.50 6’ 034433 12 54.60 7’ 034435 12 63.70 8’ 034437 12 72.80 9’ 034439 12 81.90 10’ 034440 12 91.00 10’ 6” 034443 12 95.55 11’ 034441 12 100.10 12’ 034442 12 109.20 13’ 034447 12 118.30 14’ 034449 12 127.40 15’ 034450 12 136.50 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+CL-60 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+Import Full Weight (Schedule 40) • 1.8 oz. Galvanized Pipe
+6-5/8” O.D. Import Full Weight Posts (Schedule 40) / 1.8 oz. • Nominal wall thickness .280 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 034550 7 94.85 
+6’ 034554 7 113.82 
+7’ 034555 7 132.79 
+8’ 034557 7 151.76 
+9’ 034559 7 170.73 
+10’ 034560 7 189.70 
+10’ 6” 034564 7 199.10 
+11’ 034561 7 208.67 
+12’ 034562 7 227.64 
+13’ 034563 7 246.61 
+14’ 034569 7 265.58 
+15’ 034570 7 284.55 
+8-5/8” O.D. Import Full Weight Posts (Schedule 40) / 1.8 oz. • Nominal wall thickness .322 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 034591 5 142.75 
+6’ 034582 5 171.30 
+7’ 034583 5 199.85 
+8’ 034584 5 228.40 
+9’ 034585 5 256.95 
+10’ 034571 5 285.50 
+10’ 6” 034572 5 299.78 
+11’ 034573 5 314.05 
+12’ 034575 5 342.60 
+13’ 034577 5 371.15 
+14’ 034579 5 399.70 
+15’ 034589 5 428.25 
+SPECIAL NOTE: Call us for all your special needs: Drilled Posts, Welded Plates, Post Bending, etc. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-61 
+Chain Link - Pipe and Tube 
+Domestic Full Weight (Schedule 40) • 1.8 oz. Galvanized PipeDomestic Full Weight (Schedule 40) / 1.8 oz. • Meets ASTM F 1043 Group IA and F 1083 
+DESCRIPTION18’PART NO.  21’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT PER FT. 
+NOMINAL 
+WALL THICKNESS NOTES 
+1-5/8” O.D. – PE 034649 034610 034613 42 2.27 .140 1-7/8” O.D. – PE 034633 034635 034638 36 2.72 .145 2-3/8” O.D. 034659 034660 034663 26 3.65 .154 2-7/8” O.D. 034680 034685 034688 18 5.79 .203 4” O.D. 034689 034710 034713 12 9.11 .226 6-5/8” O.D. — 034711 034770 1 18.97 .280 
+1-7/8” O.D. Domestic Full Weight Posts (Schedule 40) / 1.8 oz. • Meets ASTM F 1043 Group IA  and F 1083 • Nominal wall thickness .145 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 034608 36 16.32 7’ 034609 36 19.04 8’ 034634 36 21.76 8’ 8” 034625 36 23.57 9’ 034626 36 24.48 10’ 034614 36 27.20 11’ 034615 36 29.81 12’ 034616 36 32.64 13’ 034617 36 35.36 14’ 034618 36 38.08 15’ 034619 36 40.80 
+Call Your Master Halco location for availability of domestic full weight pipe in cut posts. 
+CL-62 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+Domestic Full Weight (Schedule 40) • 1.8 oz. Galvanized Pipe
+2-3/8” O.D. Domestic Full Weight Posts (Schedule 40) / 1.8 oz. • Meets ASTM F 1043 Group IA  and F 1083 • Nominal wall thickness .154 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 034623 26 21.90 
+7’ 034624 26 25.55 
+8’ 034674 26 29.20 
+8’ 8” 034651 26 31.63 
+9’ 034652 26 32.85 
+10’ 034650 26 36.50 
+10’ 6” 034655 26 38.32 
+11’ 034653 26 40.15 
+12’ 034627 26 43.80 
+13’ 034628 26 47.45 
+14’ 034629 26 51.10 
+15’ 034630 26 54.75 
+2-7/8” O.D. Domestic Full Weight Posts (Schedule 40) / 1.8 oz. • Meets ASTM F 1043 Group IA  and F 1083 • Nominal wall thickness .203 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 034640 18 34.74 
+7’ 034641 18 40.53 
+8’ 034642 18 46.32 
+9’ 034643 18 52.11 
+10’ 034675 18 57.90 
+10’ 6” 034676 18 60.79 
+11’ 034677 18 63.69 
+12’ 034679 18 69.48 
+13’ 034644 18 75.27 
+14’ 034645 18 81.06 
+15’ 034646 18 86.85 
+Call Your Master-Halco location for availability of domestic full weight pipe in cut posts. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-63 
+Chain Link - Pipe and Tube 
+Domestic Full Weight (Schedule 40) • 1.8 oz. Galvanized Pipe
+4” O.D. Domestic Full Weight Posts (Schedule 40) / 1.8 oz. • Meets ASTM F 1043 Group IA and F  1083 • Nominal wall thickness .226 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 034665 12 54.66 7’ 034666 12 63.77 8’ 034667 12 72.88 9’ 034668 12 81.99 10’ 034740 12 91.10 10’ 6” 034750 12 95.65 11’ 034741 12 100.21 12’ 034742 12 109.32 13’ 034669 12 118.43 14’ 034670 12 127.54 15’ 034671 12 136.65 
+6-5/8” O.D. Domestic Full Weight Posts (Schedule 40) / 1.8 oz. • Meets ASTM F 1043 Group IA  and F 1083 • Nominal wall thickness .280 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 034765 7 54.66 7’ 499V00 7 63.77 8’ 709D00 7 72.88 10’ 6” 034769 7 95.65 11’ 034810 7 100.21 12’ 034768 7 109.32 12’ 6” 034753 7 113.82 13’ 222F00 7 118.43 15’ 034811 7 127.54 17’ 034812 7 136.65 
+Call Your Master-Halco location for availability of domestic full weight pipe in cut posts. 
+CL-64 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+Domestic Full Weight (Schedule 40) • 2.0 oz. Galvanized Pipe
+Domestic Full Weight (Schedule 40) / 2 oz. • Meets ASTM F 1043 Group IA and F 1083 
+DESCRIPTION18’PART NO.  21’ 24’ 
+PIECES PER BUNDLE 
+WEIGHT PER FT. 
+NOMINAL 
+WALL THICKNESS NOTES 
+1-5/8” O.D. – PE — 034716 034717 42 2.36 .140 1-7/8” O.D. – PE — 034719 034721 36 2.83 .145 2-3/8” O.D. 034724 034727 034730 26 3.79 .154 2-7/8” O.D. 034732 034733 034736 18 6.03 .203 4” O.D. 034745 034746 034749 12 9.36 .226 
+1-5/8” O.D. Full Weight Posts (Schedule 40) / 2 oz. • Meets ASTM F 1043 Group IA and F 1083 •  Nominal wall thickness .140 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 033587 42 13.62 6’ 6” 033588 42 14.76 7’ 033589 42 15.89 7’ 6” 033590 42 17.03 8’ 033591 42 18.16 8’ 6” 033592 42 19.30 9’ 033593 42 20.43 10’ 033595 42 22.70 10’ 6” 033596 42 23.84 
+Call Your Master-Halco location for availability of domestic full weight pipe in cut posts. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-65 
+Chain Link - Pipe and Tube 
+Domestic Full Weight (Schedule 40) • 2.0 oz. Galvanized Pipe
+1-7/8” O.D. Domestic Full Weight Posts (Schedule 40) / 2 oz. • Meets ASTM F 1043 Group IA and  F 1083 • Nominal wall thickness .145 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 033612 36 16.32 
+7’ 033614 36 19.04 
+8’ 033616 36 21.76 
+8’ 6” 033617 36 23.12 
+9’ 033618 36 24.48 
+10’ 033620 36 27.20 
+10’ 6” 033621 36 28.58 
+11’ 033622 36 29.92 
+12’ 033624 36 32.64 
+13’ 033626 36 35.36 
+14’ 033627 36 38.08 
+15’ 033628 36 40.80 
+2-3/8” O.D. Domestic Full Weight Posts (Schedule 40) / 2 oz. Galvanized Pipe Meets ASTM F 1043 Group IA and F 1083 • Nominal wall thickness .154 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 033637 26 21.90 
+7’ 033639 26 25.55 
+8’ 033641 26 29.20 
+8’ 6” 033642 26 31.03 
+9’ 033643 26 32.85 
+9’ 6” 033644 26 34.88 
+10’ 033645 26 36.50 
+10’ 6” 033646 26 38.33 
+11’ 033647 26 40.15 
+12’ 033649 26 43.80 
+13’ 033651 26 47.45 
+14’ 033652 26 51.10 
+15’ 033653 26 54.75 
+Call Your Master-Halco location for availability of domestic full weight pipe in cut posts. 
+CL-66 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Pipe and Tube 
+Domestic Full Weight (Schedule 40) • 2.0 oz. Galvanized Pipe
+2-7/8” O.D. Domestic Full Weight Posts (Schedule 40) / 2 oz. • Meets ASTM F 1043 Group IA  and F 1083 • Nominal wall thickness .203 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 033662 18 34.74 
+6’ 6” 033663 18 37.64 
+7’ 033664 18 40.53 
+7’ 6” 033665 18 43.43 
+8’ 033666 18 46.32 
+8’ 6” 033667 18 49.22 
+9’ 033668 18 52.11 
+10’ 033670 18 57.90 
+10’ 6” 033671 18 60.80 
+11’ 033672 18 63.69 
+11’ 6” 033673 18 66.59 
+12’ 033674 18 69.48 
+13’ 033676 18 75.27 
+14’ 033677 18 81.06 
+15’ 033678 18 86.85 
+4” O.D. Domestic Full Weight Posts (Schedule 40) / 2 oz. • Meets ASTM F 1043 Group IA and F  1083 • Nominal wall thickness .226 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 033687 12 54.66 
+7’ 033689 12 63.77 
+8’ 033691 12 72.88 
+9’ 033693 12 81.99 
+10’ 033695 12 91.10 
+10’ 6” 033696 12 95.65 
+11’ 033697 12 100.21 
+12’ 033699 12 109.32 
+13’ 033681 12 118.43 
+14’ 033682 12 127.54 
+15’ 033683 12 136.65 
+Call Your Master-Halco location for availability of domestic full weight pipe in cut posts. 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-67 
+Chain Link - Spectra® Pipe and Tube 
+17 Gauge • Galvanized Tubing
+Spectra 17 Gauge / Polyester • Nominal wall thickness .055 PART NO.PIECES PER 
+WEIGHT 
+10’ 6” 
+10’ 6” 
+21’ 
+DESCRIPTION 
+PER FT. NOTES 10’ 6”  
+GREEN 
+BLACK 
+BROWN 
+BUNDLE 
+1-3/8” O.D. – SE 009410 009411 009412 66001_ 91 .74 1-3/8” O.D. – PE 066014 066015 066016 — 91 .74 
+1-5/8” O.D. Posts 17 Gauge / Polyester • Nominal wall thickness .055 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 6” 67678_ 61 4.75 6’ 63589_ 61 5.70 7’ 63591_ 61 6.63 8’ 63592_ 61 7.60 
+2-3/8” O.D. Posts 17 Gauge / Polyester • Nominal wall thickness .055 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 6’ 63601_ 37 9.60 7’ 67677_ 37 11.20 8’ 63604_ 37 12.80 
+Add the following number to the part no. for desired color:  
+1-Forest Green 2-Midnight Black 3-Sierra Brown 
+CL-68 Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 
+Chain Link - Spectra® Pipe and Tube 
+Spectra 16 Gauge / Polyester • Nominal wall thickness .065 DESCRIPTION PART NO. PIECES PER 
+16 Gauge • Galvanized TubingWEIGHT 
+PER FT. NOTES 10’ 6” 21’ 22’ 24’ BUNDLE 
+1-3/8” O.D. – PE 65001_ 65002_ — — 91 .87 1-3/8” O.D. – SE 65005_ 65006_ — — 91 .87 1-5/8” O.D. – PE 65010_ 65011_ — 65013_ 61 1.10 1-5/8” O.D. – SE — — 65012_ — 61 1.10 1-7/8” O.D. — 65015_ — 65017_ 61 1.27 2-3/8” O.D. — 65019_ — 65021_ 37 1.60 
+1-5/8” O.D. Posts 16 Gauge / Polyester • Nominal wall thickness .065 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 65041_ 61 5.55 5’ 6” 65042_ 61 6.11 6’ 65043_ 61 6.66 6’ 6” 65044_ 61 7.22 7’ 65045_ 61 7.77 7’ 6” 65046_ 61 8.33 8’ 65047_ 61 8.88 
+1-7/8” O.D. Posts 16 Gauge / Polyester • Nominal wall thickness .065 
+DESCRIPTION PART NO. PIECES PER BUNDLE WEIGHT EA. NOTES 5’ 65051_ 61 6.35 5’ 6” 65052_ 61 6.99 6’ 65053_ 61 7.62 6’ 6” 65054_ 61 8.62 7’ 65055_ 61 8.89 7’ 6” 65056_ 61 9.53 8’ 65057_ 61 10.16 9’ 65058_ 61 11.99 
+Add the following number to the part no. for desired color:  
+1-Forest Green 2-Midnight Black 3-Sierra Brown 
+Specifi cations Subject To Change Without Notice. For Policy and Terms, Please Refer to Page COV-1. Copyright © Master Halco, Inc. 2018 CL-69
